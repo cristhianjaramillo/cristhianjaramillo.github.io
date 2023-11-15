@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cristhian Jaramillo"
+title                    : "Gambit du Roi"
 title_separator          : " "
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Cristhian Jaramillo"
-  avatar           : "profile_cris.png"
+  avatar           : "profile_cris.jpg"
   bio              : "MSc Social Research Methods. Political scientist."
   location         : "London, UK"
-  employer         : "The London School of Economics and Political Science"
+  employer         : "The London School of Economics"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=yjOD6OwAAAAJ&hl=es&oi=ao"
   email            : "c.a.jaramillo-huaman@lse.ac.uk"
-  researchgate     : "Cristhian-Jaramillo-2"
+  researchgate     : "https://www.researchgate.net/profile/Cristhian-Jaramillo-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,12 +103,12 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "cristhian-jaramillo-00888aa6/"
-  orcid            : "0000-0002-4673-0565"
+  orcid            : "https://orcid.org/0000-0002-4673-0565"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
-  tumblr           : "https://artchronicles.tumblr.com"
+  tumblr           : "artchronicles"
   twitter          : "@schrodingercase"
   vine             :
   weibo            :
