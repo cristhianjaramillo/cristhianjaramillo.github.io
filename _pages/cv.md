@@ -156,7 +156,7 @@ French: intermediate.
 *	Served as Editor-in-Chief for two editions of Politai: Revista de Ciencia Política, "Subnational Politics" and "Illegality and Informality in Latin America".
 *	Indexed Politai: Revista de Ciencia Política on Latindex and Dialnet catalogues.
 
-## <span style="color:#800080">CAwards, Grants & Recognitions</span>
+## <span style="color:#800080">Awards, Grants & Recognitions</span>
 <hr style="border-color:#800080; margin-top: 5px; margin-bottom: 10px">
 
 **2023** &nbsp;&nbsp;&nbsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; **Oxford LLMS Workshop travel grant**  
@@ -185,29 +185,3 @@ Granted to only 16 students, this full coverage scholarship supports undergradua
 **2010-2012** &nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Recipient of the Colegio Mayor Secundario Presidente del Perú Scholarship**  
 
 Selected as one of the top 300 Peruvian students during the last three years of secondary education to attend the Colegio Mayor Secundario Presidente del Perú, this scholarship covers all educational costs including full payment of the International Baccalaureate Diploma Programme.
-
-
-
-# test
-
-### test
-
-### test
-
-### test
-
-### test
-
-### test
-
-### test
-
-### test
-
-### test
-
-### test
-
-# TEST
-## tEST
-
