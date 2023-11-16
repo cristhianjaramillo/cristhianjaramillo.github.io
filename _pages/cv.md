@@ -159,30 +159,53 @@ French: intermediate.
 ## <span style="color:#800080">CAwards, Grants & Recognitions</span>
 <hr style="border-color:#800080; margin-top: 5px; margin-bottom: 10px">
 
-**2023** &nbsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Oxford LLMS Workshop travel grant**  
+**2023** &nbsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; **Oxford LLMS Workshop travel grant**  
 
 Selected for a travel grant and registration to attend the Large Language Models Workshop organized by the University of Oxford.
 
-**2022** &nbsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Recipient of the Beca Generación Bicentenario Scholarship**  
+**2022** &nbsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; **Recipient of the Beca Generación Bicentenario Scholarship**  
 
 Awarded to 150 outstanding postgraduate students from across Peru, the scholarship fully covers all academic and ordinary expenses to support higher education.
 
-**2021** &nbsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Awarded LASA2022 Travel Grant**  
+**2021** &nbsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; **Awarded LASA2022 Travel Grant**  
 
 Selected for a $500 travel grant and registration to attend the XL International Congress of the Latin American Studies Association, based on proposal quality.
 
-**2018** &nbsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Second Place in Best Thesis Competition 2018**  
+**2018** &nbsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; **Second Place in Best Thesis Competition 2018**  
 
 Recognised for outstanding achievement among thesis submitted to the Faculty of Social Sciences.
 
-**2016** &nbsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Recipient of Scholarship for Academic Exchange at University Hradec Kralove**  
+**2016** &nbsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; **Recipient of Scholarship for Academic Exchange at University Hradec Kralove**  
 
 Awarded by the Czech Ministry of Education to only two students from Pontifical Catholic University of Peru, the scholarship covers all expenses for education and basic needs during the residency at the Faculty of Philosophy in the Czech Republic.  
 
-**2015-2018** &nbsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; **Awardee of the Solidarity Academic Encouragement Scholarships (BEAS)**  
+**2015-2018** &nbsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Awardee of the Solidarity Academic Encouragement Scholarships (BEAS)**  
 
 Granted to only 16 students, this full coverage scholarship supports undergraduate studies including enrolment, pension, and academic procedures.
 
-**2010-2012** &nbsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; **Recipient of the Colegio Mayor Secundario Presidente del Perú Scholarship**  
+**2010-2012** &nbsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Recipient of the Colegio Mayor Secundario Presidente del Perú Scholarship**  
 
 Selected as one of the top 300 Peruvian students during the last three years of secondary education to attend the Colegio Mayor Secundario Presidente del Perú, this scholarship covers all educational costs including full payment of the International Baccalaureate Diploma Programme.
+
+
+
+# test
+
+### test
+
+### test
+
+### test
+
+### test
+
+### test
+
+### test
+
+### test
+
+### test
+
+### test
+
