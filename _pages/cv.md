@@ -15,9 +15,9 @@ MSc Social Research Methods graduate from the London School of Economics and Pol
 ## <span style="color:#800080">Education & Qualifications</span>
 <hr style="border-color:#800080; margin-top: 5px; margin-bottom: 10px">
 
-- **09/2022 – 09/2023** &nbsp;&emsp;&emsp;&emsp; MSc Social Research Methods  
+- **09/2022 – 09/2023** &nbsp;&emsp;&emsp;&emsp;MSc Social Research Methods  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Department of Methodology  
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; The London School of Economics and Political Science  
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; The London School of Economics and Political Science  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; England
 
 
