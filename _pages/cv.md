@@ -25,11 +25,6 @@ MSc Social Research Methods graduate from the London School of Economics and Pol
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Pontifical Catholic University of Peru  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Peru
 
-**09/2022 – 09/2023** &nbsp;&emsp;&emsp;&nbsp;&nbsp; **MSc Social Research Methods**  
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Department of Methodology  
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; The London School of Economics and Political Science  
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; England
-
 **01/2017 – 07/2017** &nbsp;&emsp;&emsp;&nbsp;&nbsp; **Academic exchange**  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Department of Philosophy and Social Sciences  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; University Hradec Kralove  
@@ -83,6 +78,24 @@ French: intermediate.
 
 * Conducted data analysis using API's and created comprehensive reports.
 * Utilised R for data visualisation, resulting in the creation of dynamic reports in HTML.
+
+**11/2020 – Present** &nbsp;&emsp;&emsp;&nbsp;&nbsp; **Junior Political Analyst**  
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Observatorio de Reformas Políticas en América Latina   
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; National Autonomous University of Mexico   
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Mexico  
+
+*	Collected quantitative and qualitative information on political reforms in Peru through an evaluation of electoral legislation.
+*	Proposed research designs and conducted studies on electoral reforms.
+*	Served as an editorial assistant for the electronic publication of the Blog #ObservatorioReformas, in collaboration with [Voz y Voto](https://www.vozyvoto.com.mx/categoria/observatorioreformas).
+
+**05/2022 – 06/2022** &nbsp;&emsp;&emsp;&nbsp;&nbsp; **Technical Secretary**  
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; 2022 Participatory Budget Consultation of Mexico City   
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Electoral Institute of Mexico City    
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Mexico  
+
+*	Conducted visits to and evaluated the performance of three polling places.
+*	Coordinated a team of twelve electoral specialists.
+*	Produced a comprehensive report on the elections, including recommendations for improving procedures, and delivered a presentation on the findings.
 
 
 ## Section 1
