@@ -15,11 +15,15 @@ MSc Social Research Methods graduate from the London School of Economics and Pol
 ## <span style="color:#800080">Education & Qualifications</span>
 <hr style="border-color:#800080; margin-top: 5px; margin-bottom: 10px">
 
-**09/2022 – 09/2023** &nbsp;&emsp;&emsp;&nbsp;&nbsp; MSc Social Research Methods  
+**09/2022 – 09/2023** &nbsp;&emsp;&emsp;&nbsp;&nbsp; **MSc Social Research Methods**  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Department of Methodology  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; The London School of Economics and Political Science  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; England
 
+**03/2012 – 12/2017** &nbsp;&emsp;&emsp;&nbsp;&nbsp; **Bachelor of Social Science in Political Science and Government**  
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Department of Social Science  
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Pontifical Catholic University of Peru  
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Peru
 
 ## Section 1
 Content for Section 1
