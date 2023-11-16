@@ -97,6 +97,16 @@ French: intermediate.
 *	Coordinated a team of twelve electoral specialists.
 *	Produced a comprehensive report on the elections, including recommendations for improving procedures, and delivered a presentation on the findings.
 
+**04/2019 – 03/2020** &nbsp;&emsp;&emsp;&nbsp;&nbsp; **Researcher**  
+**10/2020 – 09/2022** &nbsp;&emsp;&emsp;&nbsp;&nbsp; Electoral Documentation and Investigation Subdivision  
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; National Office of Electoral Processes    
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; Peru    
+  
+*	Conducted extensive research that resulted in the publication of two books per year on electoral studies.
+*	Utilised R to contrast quantitative and qualitative data in order to evaluate electoral policies.
+*	Organised and participated in panels and events to present and discuss the findings of the books and other publications.
+
+
 
 ## Section 1
 Content for Section 1
