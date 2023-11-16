@@ -7,18 +7,12 @@ redirect_from:
   - /resume
 ---
 
-<p align="center">
-  <strong>Cristhian Jaramillo</strong>
-  <br>
-  <em>MSc Social Research Methods<br>
-  The London School of Economics and Political Science</em>
-  <br><br>
-  <strong>Contact</strong>
-  <br>
-  Email: c.a.jaramillo-huaman@lse.ac.uk <br>
-  ORCID: [0000-0002-4673-0565](https://orcid.org/0000-0002-4673-0565)
-</p>
+<span style="color:#800080">## Professional Profile</span>
+---
 
+MSc Social Research Methods graduate from the London School of Economics and Political Science with a Bachelor of Social Science in Political Science and Government from the Pontifical Catholic University of Peru. Research Assistant at LSE, Junior Political Analyst at the Observatorio de Reformas Políticas en América Latina. Topics of interest include political parties, electoral reforms, and elections in Latin America.
+
+* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (
 
 ## Section 1
 Content for Section 1
