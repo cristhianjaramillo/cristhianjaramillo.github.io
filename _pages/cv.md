@@ -77,8 +77,8 @@ French: intermediate.
 <hr style="border-color:#800080; margin-top: 5px; margin-bottom: 10px">
 
 **02/2023 – Present** &nbsp;&emsp;&emsp;&nbsp;&nbsp; **Research Assistant**  
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Care Policy and Evaluation Centre  
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; The London School of Economics and Political Science 
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Care Policy and Evaluation Centre   
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; The London School of Economics and Political Science  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; United Kingdom  
 
 * Conducted data analysis using API's and created comprehensive reports.
