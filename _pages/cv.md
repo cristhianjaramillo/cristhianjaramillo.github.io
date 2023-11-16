@@ -168,5 +168,13 @@ French: intermediate.
 *	Developed and maintained the journal's website, managing its content and overseeing its day-to-day operations.
 *	Successfully indexed Elecciones into 18 databases and platforms, contributing to its increased visibility and impact in the academic community.
 
+**01/2015 – 12/2015** &nbsp;&emsp;&emsp;&nbsp; **Editor-in-chief of [Politai](https://revistas.pucp.edu.pe/index.php/politai)**  
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Faculty of Social Science   
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Pontifical Catholic University of Peru  
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Peru  
+
+*	Led a team of five as head of the Editorial Committee, and delegated responsibilities throughout the editorial process.
+*	Served as Editor-in-Chief for two editions of Politai: Revista de Ciencia Política, "Subnational Politics" and "Illegality and Informality in Latin America".
+*	Indexed Politai: Revista de Ciencia Política on Latindex and Dialnet catalogues.
 
 
