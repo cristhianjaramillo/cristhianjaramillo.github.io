@@ -43,11 +43,11 @@ MSc Social Research Methods graduate from the London School of Economics and Pol
 <hr style="border-color:#800080; margin-top: 5px; margin-bottom: 10px">
 
 
-**08/2023** &nbsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp; **Large Language Models**  
+**08/2023** &nbsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Large Language Models**  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Workshop  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; University of Oxford – Nuffield College  
 
-**07/2023** &nbsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp; **Data Visualisation and Bayesian Modelling**  
+**07/2023** &nbsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Data Visualisation and Bayesian Modelling**  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Summer School in Research Methods and Techniques  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; European Consortium for Political Research  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Online courses
@@ -69,7 +69,9 @@ MSc Social Research Methods graduate from the London School of Economics and Pol
 <hr style="border-color:#800080; margin-top: 5px; margin-bottom: 10px">
 
 Spanish: mother tongue.
+
 English: IELTS 8.0.
+
 French: intermediate.
 
 ## Section 1
