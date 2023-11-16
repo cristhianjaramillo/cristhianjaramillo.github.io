@@ -7,70 +7,31 @@ redirect_from:
   - /resume
 ---
 
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <!-- Your content on the left -->
+    <h1>Content Title</h1>
+    <p>Your text here...</p>
+    <!-- Add more content as needed -->
+  </div>
 
-<details>
-  <summary style="text-align: right;"><strong>Table of Contents</strong></summary>
+  <div style="flex: 0 0 200px; background-color: #f4f4f4; padding: 10px; overflow-y: auto; height: 100vh;">
+    <!-- Index or Table of Contents on the right -->
+    <details>
+      <summary style="text-align: right;"><strong>Table of Contents</strong></summary>
 
-  - [Section 1](#section-1)
-  - [Section 2](#section-2)
-  - [Section 3](#section-3)
-</details>
+      <ul style="list-style: none; padding: 0;">
+        <li><a href="#section-1">Section 1</a></li>
+        <li><a href="#section-2">Section 2</a></li>
+        <!-- Add more list items for each section with corresponding anchors -->
+      </ul>
+    </details>
+  </div>
+</div>
 
 ## Section 1
 Content for Section 1
 
 ## Section 2
 Content for Section 2
-
-## Section 3
-Content for Section 3
-
-
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<!-- Add more sections and content as needed -->
