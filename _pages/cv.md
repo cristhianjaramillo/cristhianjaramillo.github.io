@@ -134,7 +134,7 @@ French: intermediate.
 *	Utilised R and Excel to organise this information into tables and graphs.
 *	Collaborated on the drafting of a final report on rural education policy in Peru and presented the findings to four key stakeholders.
 
-## <span style="color:#800080">Teaching experience</span>
+## <span style="color:#800080">Teaching Experience</span>
 <hr style="border-color:#800080; margin-top: 5px; margin-bottom: 10px">
 
 **08/2019 – 07/2021** &nbsp;&emsp;&emsp;&nbsp; **Teaching Assistant - Statistics for Political Analysis 2**  
@@ -155,12 +155,18 @@ French: intermediate.
 *	Delivered engaging lectures for a two-hour class each week, while monitoring and evaluating student progress.
 *	Reviewed 15 research projects, providing feedback and guidance to ensure the highest quality of work.
 
+## <span style="color:#800080">Editorial Experience</span>
+<hr style="border-color:#800080; margin-top: 5px; margin-bottom: 10px">
+
+**10/2020 – 09/2022** &nbsp;&emsp;&emsp;&nbsp; **Editor-in-chief of [Elecciones](https://revistas.onpe.gob.pe/index.php/elecciones)**  
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Electoral Documentation and Investigation Subdivision   
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; National Office of Electoral Processes  
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Peru  
+
+*	Led a team of five members in the Publications Committee, ensuring an efficient editorial process.
+*	Served as Editor-in-Chief for three consecutive editions (21, 22, and 23) of the journal Elecciones.
+*	Developed and maintained the journal's website, managing its content and overseeing its day-to-day operations.
+*	Successfully indexed Elecciones into 18 databases and platforms, contributing to its increased visibility and impact in the academic community.
 
 
 
-## Section 1
-Content for Section 1
-
-## Section 2
-Content for Section 2
-<!-- Add more sections and content as needed -->
