@@ -89,9 +89,9 @@ French: intermediate.
 *	Served as an editorial assistant for the electronic publication of the Blog #ObservatorioReformas, in collaboration with [Voz y Voto](https://www.vozyvoto.com.mx/categoria/observatorioreformas).
 
 **05/2022 – 06/2022** &nbsp;&emsp;&emsp;&nbsp;&nbsp; **Technical Secretary**  
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; 2022 Participatory Budget Consultation of Mexico City   
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Electoral Institute of Mexico City    
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Mexico  
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; 2022 Participatory Budget Consultation of Mexico City   
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; Electoral Institute of Mexico City    
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; Mexico  
 
 *	Conducted visits to and evaluated the performance of three polling places.
 *	Coordinated a team of twelve electoral specialists.
