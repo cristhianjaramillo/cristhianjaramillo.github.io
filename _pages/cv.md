@@ -7,7 +7,24 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+
+<details>
+  <summary style="text-align: right;"><strong>Table of Contents</strong></summary>
+
+  - [Section 1](#section-1)
+  - [Section 2](#section-2)
+  - [Section 3](#section-3)
+</details>
+
+## Section 1
+Content for Section 1
+
+## Section 2
+Content for Section 2
+
+## Section 3
+Content for Section 3
+
 
 Education
 ======
