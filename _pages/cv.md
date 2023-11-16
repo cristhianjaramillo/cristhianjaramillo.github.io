@@ -79,7 +79,7 @@ French: intermediate.
 * Conducted data analysis using API's and created comprehensive reports.
 * Utilised R for data visualisation, resulting in the creation of dynamic reports in HTML.
 
-**11/2020 – Present** &nbsp;&emsp;&emsp;&nbsp;&nbsp; **Junior Political Analyst**  
+**11/2020 – Present** &nbsp;&emsp;&emsp;&nbsp;&nbsp; **Researcher**  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Observatorio de Reformas Políticas en América Latina   
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; National Autonomous University of Mexico   
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Mexico  
@@ -105,6 +105,56 @@ French: intermediate.
 *	Conducted extensive research that resulted in the publication of two books per year on electoral studies.
 *	Utilised R to contrast quantitative and qualitative data in order to evaluate electoral policies.
 *	Organised and participated in panels and events to present and discuss the findings of the books and other publications.
+
+**01/2019 – 03/2019** &nbsp;&emsp;&emsp;&nbsp;&nbsp; **Member of the Technical Secretariat**  
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; High-Level Commission for Political Reform   
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Presidential Office  
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Peru  
+
+*	Conducted extensive research on political and electoral information, utilising various sources such as databases, reports, legislation, and books.
+*	Analysed data and created statistical tables, indicators, and data visualisations using R and Excel.
+*	Coordinated meetings with specialists, governmental institutions, NGOs, and other stakeholders to facilitate collaboration and information sharing.
+*	Co-authored documents proposing electoral policies and reforms.
+
+**04/2018 – 12/2018** &nbsp;&emsp;&emsp;&nbsp;&nbsp; **Junior Political Analyst**  
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Electoral Process Operations Center   
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; National Jury of Elections  
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Peru  
+
+*	Headed a team of 4 individuals responsible for updating, maintaining, and generating content for [INFOgob: Observatory for Governance](https://infogob.jne.gob.pe/).
+*	Developed research proposals in electoral studies, utilising both quantitative and qualitative approaches.
+*	Collaborated on the creation of reports on electoral politics, drawing from both quantitative and qualitative data.
+
+**10/2017 – 12/2017** &nbsp;&emsp;&emsp;&nbsp;&nbsp; **Research Assistant**  
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Innovation for Development   
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Ministry of Education of Peru  
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Peru  
+
+*	Conducted surveys and interviews to gather information from students, principals, teachers, and parents at 12 rural educational institutions.
+*	Utilised R and Excel to organise this information into tables and graphs.
+*	Collaborated on the drafting of a final report on rural education policy in Peru and presented the findings to four key stakeholders.
+
+## <span style="color:#800080">Teaching experience</span>
+<hr style="border-color:#800080; margin-top: 5px; margin-bottom: 10px">
+
+**08/2019 – 07/2021** &nbsp;&emsp;&emsp;&nbsp;&nbsp; **Teaching Assistant - Statistics for Political Analysis 2**  
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Department of Social Science   
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Pontifical Catholic University of Peru  
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Peru  
+
+*	Prepared classroom material, including codes, presentations, and evaluations, to enhance student learning.
+*	Conducted engaging and informative classes, while monitoring and evaluating student progress.
+*	Offered one-on-one counselling sessions to students experiencing learning difficulties, providing additional support.
+
+**10/2017 – 12/2017** &nbsp;&emsp;&emsp;&nbsp;&nbsp; **Teaching Assistant - Electronic Media Applied to Political Science**  
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Department of Social Science   
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; National University of San Marcos  
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Peru  
+
+*	Developed course materials, including presentations and evaluations, to enhance the learning experience.
+*	Delivered engaging lectures for a two-hour class each week, while monitoring and evaluating student progress.
+*	Reviewed 15 research projects, providing feedback and guidance to ensure the highest quality of work.
+
 
 
 
