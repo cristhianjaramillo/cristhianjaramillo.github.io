@@ -106,7 +106,7 @@ French: intermediate.
 *	Utilised R to contrast quantitative and qualitative data in order to evaluate electoral policies.
 *	Organised and participated in panels and events to present and discuss the findings of the books and other publications.
 
-**01/2019 – 03/2019** &nbsp;&emsp;&emsp;&nbsp;&nbsp; **Member of the Technical Secretariat**  
+**01/2019 – 03/2019** &nbsp;&emsp;&emsp;&nbsp; **Member of the Technical Secretariat**  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; High-Level Commission for Political Reform   
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Presidential Office  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Peru  
@@ -116,7 +116,7 @@ French: intermediate.
 *	Coordinated meetings with specialists, governmental institutions, NGOs, and other stakeholders to facilitate collaboration and information sharing.
 *	Co-authored documents proposing electoral policies and reforms.
 
-**04/2018 – 12/2018** &nbsp;&emsp;&emsp;&nbsp;&nbsp; **Junior Political Analyst**  
+**04/2018 – 12/2018** &nbsp;&emsp;&emsp;&nbsp; **Junior Political Analyst**  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Electoral Process Operations Center   
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; National Jury of Elections  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Peru  
@@ -125,7 +125,7 @@ French: intermediate.
 *	Developed research proposals in electoral studies, utilising both quantitative and qualitative approaches.
 *	Collaborated on the creation of reports on electoral politics, drawing from both quantitative and qualitative data.
 
-**10/2017 – 12/2017** &nbsp;&emsp;&emsp;&nbsp;&nbsp; **Research Assistant**  
+**10/2017 – 12/2017** &nbsp;&emsp;&emsp;&nbsp; **Research Assistant**  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Innovation for Development   
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Ministry of Education of Peru  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Peru  
@@ -137,7 +137,7 @@ French: intermediate.
 ## <span style="color:#800080">Teaching experience</span>
 <hr style="border-color:#800080; margin-top: 5px; margin-bottom: 10px">
 
-**08/2019 – 07/2021** &nbsp;&emsp;&emsp;&nbsp;&nbsp; **Teaching Assistant - Statistics for Political Analysis 2**  
+**08/2019 – 07/2021** &nbsp;&emsp;&emsp;&nbsp; **Teaching Assistant - Statistics for Political Analysis 2**  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Department of Social Science   
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Pontifical Catholic University of Peru  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Peru  
@@ -146,7 +146,7 @@ French: intermediate.
 *	Conducted engaging and informative classes, while monitoring and evaluating student progress.
 *	Offered one-on-one counselling sessions to students experiencing learning difficulties, providing additional support.
 
-**10/2017 – 12/2017** &nbsp;&emsp;&emsp;&nbsp;&nbsp; **Teaching Assistant - Electronic Media Applied to Political Science**  
+**10/2017 – 12/2017** &nbsp;&emsp;&emsp;&nbsp; **Teaching Assistant - Electronic Media Applied to Political Science**  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Department of Social Science   
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; National University of San Marcos  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Peru  
