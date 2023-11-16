@@ -134,27 +134,6 @@ French: intermediate.
 *	Utilised R and Excel to organise this information into tables and graphs.
 *	Collaborated on the drafting of a final report on rural education policy in Peru and presented the findings to four key stakeholders.
 
-## <span style="color:#800080">Teaching Experience</span>
-<hr style="border-color:#800080; margin-top: 5px; margin-bottom: 10px">
-
-**08/2019 – 07/2021** &nbsp;&emsp;&emsp;&nbsp; **Teaching Assistant - Statistics for Political Analysis 2**  
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Department of Social Science   
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Pontifical Catholic University of Peru  
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Peru  
-
-*	Prepared classroom material, including codes, presentations, and evaluations, to enhance student learning.
-*	Conducted engaging and informative classes, while monitoring and evaluating student progress.
-*	Offered one-on-one counselling sessions to students experiencing learning difficulties, providing additional support.
-
-**10/2017 – 12/2017** &nbsp;&emsp;&emsp;&nbsp; **Teaching Assistant - Electronic Media Applied to Political Science**  
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Department of Social Science   
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; National University of San Marcos  
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Peru  
-
-*	Developed course materials, including presentations and evaluations, to enhance the learning experience.
-*	Delivered engaging lectures for a two-hour class each week, while monitoring and evaluating student progress.
-*	Reviewed 15 research projects, providing feedback and guidance to ensure the highest quality of work.
-
 ## <span style="color:#800080">Editorial Experience</span>
 <hr style="border-color:#800080; margin-top: 5px; margin-bottom: 10px">
 
@@ -177,4 +156,26 @@ French: intermediate.
 *	Served as Editor-in-Chief for two editions of Politai: Revista de Ciencia Política, "Subnational Politics" and "Illegality and Informality in Latin America".
 *	Indexed Politai: Revista de Ciencia Política on Latindex and Dialnet catalogues.
 
+## <span style="color:#800080">CAwards, Grants & Recognitions</span>
+<hr style="border-color:#800080; margin-top: 5px; margin-bottom: 10px">
 
+**2023** &nbsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Oxford LLMS Workshop travel grant**  
+Selected for a travel grant and registration to attend the Large Language Models Workshop organized by the University of Oxford.
+
+**2022** &nbsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Recipient of the Beca Generación Bicentenario Scholarship**  
+Awarded to 150 outstanding postgraduate students from across Peru, the scholarship fully covers all academic and ordinary expenses to support higher education.
+
+**2021** &nbsp;&emsp;&emsp;&nbsp;&nbsp; **Awarded LASA2022 Travel Grant**  
+Selected for a $500 travel grant and registration to attend the XL International Congress of the Latin American Studies Association, based on proposal quality.
+
+**2018** &nbsp;&emsp;&emsp;&nbsp;&nbsp; **Second Place in Best Thesis Competition 2018**  
+Recognised for outstanding achievement among thesis submitted to the Faculty of Social Sciences.
+
+**2016** &nbsp;&emsp;&emsp;&nbsp;&nbsp; **Recipient of Scholarship for Academic Exchange at University Hradec Kralove**  
+Awarded by the Czech Ministry of Education to only two students from Pontifical Catholic University of Peru, the scholarship covers all expenses for education and basic needs during the residency at the Faculty of Philosophy in the Czech Republic.  
+
+**2015-2018** &nbsp;&emsp;&emsp;&nbsp;&nbsp; **Awardee of the Solidarity Academic Encouragement Scholarships (BEAS)**  
+Granted to only 16 students, this full coverage scholarship supports undergraduate studies including enrolment, pension, and academic procedures.
+
+**2010-2012** &nbsp;&emsp;&emsp;&nbsp;&nbsp; **Recipient of the Colegio Mayor Secundario Presidente del Perú Scholarship**  
+Selected as one of the top 300 Peruvian students during the last three years of secondary education to attend the Colegio Mayor Secundario Presidente del Perú, this scholarship covers all educational costs including full payment of the International Baccalaureate Diploma Programme.
