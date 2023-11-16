@@ -42,11 +42,12 @@ MSc Social Research Methods graduate from the London School of Economics and Pol
 ## <span style="color:#800080">Certificates & Courses</span>
 <hr style="border-color:#800080; margin-top: 5px; margin-bottom: 10px">
 
-**08/2023** &nbsp;&emsp;&emsp;&nbsp;&nbsp; **Large Language Models**  
+
+**08/2023** &nbsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp; **Large Language Models**  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Workshop  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; University of Oxford – Nuffield College  
 
-**07/2023** &nbsp;&emsp;&emsp;&nbsp;&nbsp; **Data Visualisation and Bayesian Modelling**  
+**07/2023** &nbsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp; **Data Visualisation and Bayesian Modelling**  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Summer School in Research Methods and Techniques  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; European Consortium for Political Research  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Online courses
@@ -56,7 +57,7 @@ MSc Social Research Methods graduate from the London School of Economics and Pol
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Specialisation Course  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; México
 
-**04/2018 – 08/2018** &nbsp;&emsp;&emsp;&nbsp;&nbsp; **Data Science: R Basics, Visualization, Probability, Inference and Modeling, Productivity Tools, Linear Regression, Wrangling, and Machine Learning**  
+**04/2018 – 08/2018** &nbsp;&emsp;&emsp;&nbsp;&nbsp; **Data Science**  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Harvard University  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Online courses  
 
