@@ -42,7 +42,6 @@ MSc Social Research Methods graduate from the London School of Economics and Pol
 ## <span style="color:#800080">Certificates & Courses</span>
 <hr style="border-color:#800080; margin-top: 5px; margin-bottom: 10px">
 
-
 **08/2023** &nbsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Large Language Models**  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Workshop  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; University of Oxford – Nuffield College  
@@ -73,6 +72,18 @@ Spanish: mother tongue.
 English: IELTS 8.0.
 
 French: intermediate.
+
+## <span style="color:#800080">Career Summary</span>
+<hr style="border-color:#800080; margin-top: 5px; margin-bottom: 10px">
+
+**02/2023 – Present** &nbsp;&emsp;&emsp;&nbsp;&nbsp; **Research Assistant**  
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Care Policy and Evaluation Centre  
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; The London School of Economics and Political Science 
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; United Kingdom  
+
+* Conducted data analysis using API's and created comprehensive reports.
+* Utilised R for data visualisation, resulting in the creation of dynamic reports in HTML.
+
 
 ## Section 1
 Content for Section 1
