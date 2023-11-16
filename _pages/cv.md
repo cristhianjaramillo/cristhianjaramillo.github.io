@@ -99,8 +99,8 @@ French: intermediate.
 
 **04/2019 – 03/2020** &nbsp;&emsp;&emsp;&nbsp;&nbsp; **Researcher**  
 **10/2020 – 09/2022** &nbsp;&emsp;&emsp;&nbsp;&nbsp; Electoral Documentation and Investigation Subdivision  
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;nbsp; National Office of Electoral Processes    
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;nbsp; Peru    
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp; National Office of Electoral Processes    
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp; Peru    
   
 *	Conducted extensive research that resulted in the publication of two books per year on electoral studies.
 *	Utilised R to contrast quantitative and qualitative data in order to evaluate electoral policies.
