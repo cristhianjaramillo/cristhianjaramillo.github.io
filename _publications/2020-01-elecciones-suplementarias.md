@@ -18,3 +18,7 @@ El presente artículo analiza el desarrollo de las Elecciones Municipales Comple
 
 ![Sample Image](/_publications/_pub_images/complementary_figure1.png)
 complementary_figure1
+
+![Sample Image](/_publications/_pub_images/party_discipline_table1.png)
+![Sample Image](_publications/_pub_images/party_discipline_table1.png)
+_publications/_pub_images/party_discipline_table1.png
