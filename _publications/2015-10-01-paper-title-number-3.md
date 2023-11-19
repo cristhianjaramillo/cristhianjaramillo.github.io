@@ -16,7 +16,7 @@ Party division in Peru is a constant event and has become an expected feature of
 
 Figures and supplementary resources:
 
-![](images/party_discipline_figure1.png)
+<img src='/images/party_discipline_figure1.png'>
 ![](images/party_discipline_table1.png)
 ![](images/party_discipline_table2.png)
 ![](images/party_discipline_table3.png)
