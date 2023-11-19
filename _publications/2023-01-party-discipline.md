@@ -29,7 +29,8 @@ here**](https://www.researchgate.net/publication/372884572_The_Impossibility_of_
 
 **Figures & Supplementary Resources:**
 
-![](/_publications/images/complementary_figure1.png)
+![](_publications/images/complementary_figure1.png)
+
 
 ![](images/party_discipline_figure1.png)
 ![](images/party_discipline_table1.png)
