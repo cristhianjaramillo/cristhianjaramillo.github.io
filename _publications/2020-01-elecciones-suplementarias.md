@@ -14,7 +14,7 @@ El presente artículo analiza el desarrollo de las Elecciones Municipales Comple
 
 [**Download paper here**](https://www.researchgate.net/publication/341165520_Elecciones_municipales_complementarias_en_distritos_posconflicto_electoral_en_Peru)
 
-**Figures & Supplementary Resources:**
+**<span style='color:#800080'>Figures & Supplementary Resources:</span>**
 
 <img src="/images/complementary_figure1.png"/>
 
