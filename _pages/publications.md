@@ -14,7 +14,7 @@ author_profile: true
 {% include base_path %}
 
 {% assign publications = site.publications | where_exp: "item", "item.type == 'article'" %}
-{% for post in publications reversed %}
+{% for post in publications %}
   {% include archive-single.html %}
 {% endfor %}
 
