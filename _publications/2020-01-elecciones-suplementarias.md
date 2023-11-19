@@ -16,8 +16,4 @@ El presente artículo analiza el desarrollo de las Elecciones Municipales Comple
 
 **Figures & Supplementary Resources:**
 
-![](_publications/images/complementary_figure1.png)
-
-![complementary_figure1](https://github.com/cristhianjaramillo/cristhianjaramillo.github.io/assets/114685712/ff5cdb11-d7df-4cf9-9d2f-4e5e6c633dc3)
-
 ![](/_publications/images/complementary_figure1.png)
