@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# <span style='color:#800080'>Articles</span>
+## <span style='color:#800080'>Articles</span>
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
@@ -18,7 +18,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-# <span style='color:#800080'>Book chapters</span>
+## <span style='color:#800080'>Book chapters</span>
 
 {% if author.googlescholar %}
   You can also find my book chapters on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
@@ -31,7 +31,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-# <span style='color:#800080'>Books</span>
+## <span style='color:#800080'>Books</span>
 
 {% if author.googlescholar %}
   You can also find my books on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
