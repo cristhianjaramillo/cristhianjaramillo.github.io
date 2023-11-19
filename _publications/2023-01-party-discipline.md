@@ -29,22 +29,22 @@ here**](https://www.researchgate.net/publication/372884572_The_Impossibility_of_
 
 **Figures & Supplementary Resources:**
 
-![](images/party_discipline_figure1.png)
+<img src='/images/party_discipline_figure1.png'>
 
-![](images/party_discipline_table1.png)
+<img src='/images/party_discipline_table1.png'>
 
-![](images/party_discipline_table2.png)
+<img src='/images/party_discipline_table2.png'>
 
-![](images/party_discipline_table3.png)
+<img src='/images/party_discipline_table3.png'>
 
-![](images/party_discipline_table4.png)
+<img src='/images/party_discipline_table4.png'>
 
-![](images/party_discipline_table5.png)
+<img src='/images/party_discipline_table5.png'>
 
-![](images/party_discipline_table6.png)
+<img src='/images/party_discipline_table6.png'>
 
-![](images/party_discipline_table7.png)
+<img src='/images/party_discipline_table7.png'>
 
-![](images/party_discipline_table8.png)
+<img src='/images/party_discipline_table8.png'>
 
-![](images/party_discipline_table9.png)
+<img src='/images/party_discipline_table9.png'>
