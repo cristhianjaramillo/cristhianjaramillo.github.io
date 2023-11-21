@@ -18,4 +18,8 @@ De esta forma, la pregunta que atiende el presente paper es: ¿qué variables ex
 
 **<span style='color:#333333'>Figures & Supplementary Resources:</span>**
 
+<img src="/images/corruption_table1.png"/>
 
+<img src="/images/corruption_figure1.png"/>
+
+<img src="/images/corruption_figure2.png"/>
