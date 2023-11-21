@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "<span style='color:#333333'>About me</span>"
+title: "<span style='color:#333333'>Welcome to my academic page!</span>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-**Welcome to my academic page!**
 
 I am a graduate of the London School of Economics and Political Science, in Social Research Methods. My background includes a Bachelor of Social Science in Political Science and Government from the Pontifical Catholic University of Peru.
 
