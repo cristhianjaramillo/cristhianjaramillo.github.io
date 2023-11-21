@@ -1,5 +1,5 @@
 ---
-title: "<span style='color:#800080'>Elecciones municipales complementarias en distritos post conflicto electoral en Perú</span>"
+title: "<span style='color:#333333'>Elecciones municipales complementarias en distritos post conflicto electoral en Perú</span>"
 collection: publications
 permalink: /publication/2020-01-elecciones-suplementarias
 excerpt: ''
@@ -14,7 +14,7 @@ El presente artículo analiza el desarrollo de las Elecciones Municipales Comple
 
 [**Download paper here**](https://www.researchgate.net/publication/341165520_Elecciones_municipales_complementarias_en_distritos_posconflicto_electoral_en_Peru)
 
-**<span style='color:#800080'>Figures & Supplementary Resources:</span>**
+**<span style='color:#333333'>Figures & Supplementary Resources:</span>**
 
 <img src="/images/complementary_figure1.png"/>
 

@@ -7,12 +7,12 @@ redirect_from:
   - /resume
 ---
 
-## <span style="color:#800080">Professional Profile</span>
+## <span style="color:##333333">Professional Profile</span>
 <hr style="border-color:#800080; margin-top: 5px; margin-bottom: 10px">
 
 MSc Social Research Methods graduate from the London School of Economics and Political Science with a Bachelor of Social Science in Political Science and Government from the Pontifical Catholic University of Peru. Research Assistant at LSE, Junior Political Analyst at the Observatorio de Reformas Políticas en América Latina. Topics of interest include political parties, electoral reforms, and elections in Latin America.
 
-## <span style="color:#800080">Education & Qualifications</span>
+## <span style="color:##333333">Education & Qualifications</span>
 <hr style="border-color:#800080; margin-top: 5px; margin-bottom: 10px">
 
 **09/2022 – 09/2023** &nbsp;&emsp;&emsp;&nbsp;&nbsp; **MSc Social Research Methods**  
@@ -34,7 +34,7 @@ MSc Social Research Methods graduate from the London School of Economics and Pol
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; High-Performance School of Peru  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Peru  
 
-## <span style="color:#800080">Certificates & Courses</span>
+## <span style="color:##333333">Certificates & Courses</span>
 <hr style="border-color:#800080; margin-top: 5px; margin-bottom: 10px">
 
 **08/2023** &nbsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Large Language Models**  
@@ -59,7 +59,7 @@ MSc Social Research Methods graduate from the London School of Economics and Pol
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Latin American Association of Political Science  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Perú  
 
-## <span style="color:#800080">Languages</span>
+## <span style="color:##333333">Languages</span>
 <hr style="border-color:#800080; margin-top: 5px; margin-bottom: 10px">
 
 Spanish: mother tongue.
@@ -68,7 +68,7 @@ English: IELTS 8.0.
 
 French: intermediate.
 
-## <span style="color:#800080">Career Summary</span>
+## <span style="color:##333333">Career Summary</span>
 <hr style="border-color:#800080; margin-top: 5px; margin-bottom: 10px">
 
 **02/2023 – Present** &nbsp;&emsp;&emsp;&nbsp;&nbsp; **Research Assistant**  
@@ -134,7 +134,7 @@ French: intermediate.
 *	Utilised R and Excel to organise this information into tables and graphs.
 *	Collaborated on the drafting of a final report on rural education policy in Peru and presented the findings to four key stakeholders.
 
-## <span style="color:#800080">Editorial Experience</span>
+## <span style="color:##333333">Editorial Experience</span>
 <hr style="border-color:#800080; margin-top: 5px; margin-bottom: 10px">
 
 **10/2020 – 09/2022** &nbsp;&emsp;&emsp;&nbsp; **Editor-in-chief of [Elecciones](https://revistas.onpe.gob.pe/index.php/elecciones)**  
@@ -156,7 +156,7 @@ French: intermediate.
 *	Served as Editor-in-Chief for two editions of Politai: Revista de Ciencia Política, "Subnational Politics" and "Illegality and Informality in Latin America".
 *	Indexed Politai: Revista de Ciencia Política on Latindex and Dialnet catalogues.
 
-## <span style="color:#800080">Awards, Grants & Recognitions</span>
+## <span style="color:##333333">Awards, Grants & Recognitions</span>
 <hr style="border-color:#800080; margin-top: 5px; margin-bottom: 10px">
 
 **2023** &nbsp;&nbsp;&nbsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; **Oxford LLMS Workshop travel grant**  
