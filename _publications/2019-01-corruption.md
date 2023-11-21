@@ -1,5 +1,5 @@
 ---
-title: "<span style='color:#006400'>Cuando caen los chicos y no los grandes: la corrupción a nivel subnacional en los casos de Callao y Tumbes</span>"
+title: "<span style='color:#333333'>Cuando caen los chicos y no los grandes: la corrupción a nivel subnacional en los casos de Callao y Tumbes</span>"
 collection: publications
 permalink: /publication/2019-1-corruption
 excerpt: ''
@@ -16,7 +16,7 @@ De esta forma, la pregunta que atiende el presente paper es: ¿qué variables ex
 
 [**Download paper here**](https://www.researchgate.net/publication/336393445_Cuando_caen_los_chicos_y_no_los_grandes_la_corrupcion_a_nivel_subnacional_en_los_casos_de_Callao_y_Tumbes)
 
-[**Figures & Supplementary Resources:**]{style="color:#800080"}
+[**Figures & Supplementary Resources:**]{style="color:#333333"}
 
 <img src="/images/corruption_table1.png"/>
 
