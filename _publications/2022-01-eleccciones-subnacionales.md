@@ -16,7 +16,7 @@ En consecuencia, este artículo busca describir el desarrollo de las Elecciones 
 
 [**Download paper here**](https://www.researchgate.net/publication/366317555_Peru_Elecciones_Regionales_y_Municipales_2022_La_continua_prevalencia_de_los_movimientos_regionales)
 
-[**Figures & Supplementary Resources:**]{style="color:#333333"}
+**<span style='color:#333333'>Figures & Supplementary Resources:</span>**
 
 <img src="/images/subnacional_table1.png"/>
 
