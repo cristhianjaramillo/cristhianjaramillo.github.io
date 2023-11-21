@@ -6,7 +6,7 @@ excerpt: ''
 date: 2022-07-01
 venue: 'Revista Elecciones'
 paperurl: 'https://doi.org/10.53557/Elecciones.2022.v21n24.08'
-citation: 'Jaramillo, Cristhian. (2023). &quot;Perú: Elecciones Regionales y Municipales 2022. La continua prevalencia de los movimientos regionales.&quot; <i>Revista Elecciones</i>. 21(24): 249-262.'
+citation: 'Jaramillo, Cristhian. (2022). &quot;Perú: Elecciones Regionales y Municipales 2022. La continua prevalencia de los movimientos regionales.&quot; <i>Revista Elecciones</i>. 21(24): 249-262.'
 type: article
 ---
 
