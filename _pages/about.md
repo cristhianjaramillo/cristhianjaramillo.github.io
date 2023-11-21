@@ -12,6 +12,9 @@ I am a graduate of the London School of Economics and Political Science, in Soci
 
 Currently, I am a Research Assistant at the Care Policy and Evaluation Centre, LSE, and Researcher at the [Observatorio de Reformas Políticas en América Latina](https://www.reformaspolíticas.org). My research focus on political parties, electoral reforms, and elections in Latin America. My interests extend to quantitative studies, coding, data visualization using R, and my teaching experience encompasses Statistics for Political Analysis at the Pontifical Catholic University of Peru and other institutions.
 
+<div style="float: right; margin: 0px 10px 0px 10px;">
+    <img src="images/Айвазовский_И.К._Волна.jpg" alt="Image Alt Text" width="350" height="202">
+</div>
 I have also been involved directing academic journals in Latin America such as [Elecciones](https://revistas.onpe.gob.pe/index.php/elecciones) and Politai (<https://revistas.pucp.edu.pe/index.php/politai>), contributing to their visibility in academic circles.
 
 Thanks to my efforts, I have been fortunate to receive grants, scholarships, and awards recognizing my academic achievements. Notable among these are the Beca Generación Bicentenario Scholarship, the Solidarity Academic Encouragement Scholarships (BEAS), and the Colegio Mayor Secundario Presidente del Perú Scholarship. These recognitions have significantly supported my academic journey.
