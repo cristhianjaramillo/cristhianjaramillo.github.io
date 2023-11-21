@@ -16,6 +16,10 @@
 
   // return to default $total-columns setting.
   $total-columns    : $default-layout !global;
+
+  .page {
+    padding-right: 0;
+  }
 }
 
 // Nest a block of code inside a new media-query and layout context.
