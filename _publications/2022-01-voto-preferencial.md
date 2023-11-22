@@ -6,7 +6,7 @@ excerpt: ''
 date: 2022-11-01
 venue: 'Elecciones 2021: Pandemia, crisis y representación'
 paperurl: 'https://rb.gy/5al161'
-citation: 'Jaramillo, Cristhian. (2022). &quot;Perú y el voto preferencial: la última aplicación de este sistema.&quot;In: <i>Elecciones 2021: Pandemia, crisis y representación</i> edited by Fernando Tuesta. Lima: PUCP.'
+citation: 'Jaramillo, Cristhian. (2022). &quot;Perú y el voto preferencial: la última aplicación de este sistema.&quot; In: <i>Elecciones 2021: Pandemia, crisis y representación</i> edited by Fernando Tuesta. Lima: PUCP.'
 type: book_chapter
 ---
 
@@ -14,7 +14,7 @@ En las elecciones, las reglas que determinan cómo y a quién se elige importan 
 
 [**Download paper here**](https://www.researchgate.net/publication/371389245_Peru_y_el_voto_preferencial_la_ultima_aplicacion_de_este_sistema)
 
-[**Figures & Supplementary Resources:**]{style="color:#333333"}
+**<span style='color:#333333'>Figures & Supplementary Resources:</span>**
 
 <img src="/images/voto_preferencial_figure1.png"/>
 
