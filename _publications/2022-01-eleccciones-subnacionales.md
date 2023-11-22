@@ -18,8 +18,8 @@ En consecuencia, este artículo busca describir el desarrollo de las Elecciones 
 
 **<span style='color:#333333'>Figures & Supplementary Resources:</span>**
 
-<img src="/images/subnacional_table1.png"/>
-
 <img src="/images/subnacional_figure1.png"/>
 
 <img src="/images/subnacional_figure2.png"/>
+
+<img src="/images/subnacional_table1.png"/>
