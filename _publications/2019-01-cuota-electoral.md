@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2019-cuotas-electorales
 excerpt: ''
 date: 2019-01-01
-venue: ''
 paperurl: 'https://rb.gy/6gqj3c'
 citation: 'Jaramillo, Cristhian. (2019). &quot;Las cuotas electorales. Un análisis multinivel de los efectos de su aplicación.&quot; Lima: ONPE.'
 type: book
