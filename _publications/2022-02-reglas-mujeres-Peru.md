@@ -1,7 +1,7 @@
 ---
 title: "<span style='color:#333333'>Perú: reglas fuertes, sistema electoral poco amigable y baja representación descriptiva de las mujeres</span>"
 collection: publications
-permalink: /publication/2022-reglas-mujeres
+permalink: /publication/2022-reglas-mujeres-Peru
 excerpt: ''
 date: 2022-11-02
 venue: 'La construcción de democracias paritarias en América Latina. Régimen electoral de género, actores críticos y representación descriptiva de las mujeres (1990-2022)'
