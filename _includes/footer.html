@@ -1,5 +1,5 @@
 {% include base_path %}
-
+<br>
 <div class="page__footer-follow" style="float: left;">
   <ul class="social-icons">
     {% if site.data.ui-text[site.locale].follow_label %}
@@ -20,9 +20,9 @@
     <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
   </ul>
 </div>
-
+<br>
 <div class="page__footer-quote" style="text-align: right; font-size: 14px; float: right;">
   <p>&ldquo;Read, read, read. Read everything&mdash;trash, classics, good and bad, and see how they do it. <br>Just like a carpenter who works as an apprentice and studies the master. Read! You'll absorb it. <br>Then write. If it's good, you'll find out.&rdquo;<br>— William Faulkner</p>
 </div>
-
+<br>
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
