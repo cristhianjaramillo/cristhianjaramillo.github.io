@@ -18,11 +18,11 @@ tags:
     <figcaption style="margin-top: 3px; text-align: right;">Photo credit: Wikimedia Commons, Natalia Reyes Escobar</figcaption>
   </figure>
 </div>
-<br>
+
 <div style="border: 2px solid grey; padding: 10px;">
 This text was originally published in Spanish in the Mexican newspaper 'Voz y Voto.' If you wish to read the original article, you can do so <a href="https://www.vozyvoto.com.mx/articulo/los-constantes-cambios-las-reformas-a-los-sistemas-electorales-de-los-legislativos-en-america-latina?category_id=11">here</a>.
 </div>
-
+<br>
 
 In Latin America, electoral reforms have been mostly used to strengthen the rights of certain sectors of the population, increase confidence in the democratic system, bolster political parties, and/or democratize certain public spaces. In this region, reforming has become the favorite response of decision-makers to address issues related to institutional functioning, political organization weakness, and the public's perception of politics, as evidenced by the work of Flavia Freidenberg.
 
