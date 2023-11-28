@@ -17,7 +17,7 @@ tags:
     <figcaption style="margin-top: -10px; text-align: right;">Photo credit: Lucas Aguayo Araos/Picture Alliance/Getty Images</figcaption>
   </figure>
 </div>
-<div style="border: 2px solid grey; padding: 10px; margin-bottom: -5px;">
+<div style="border: 2px solid grey; padding: 10px; margin-top: -5px; margin-bottom: 0px;">
 This text was originally published in Spanish in the Mexican newspaper 'El Universal.' If you wish to read the original article, you can do so <a href="https://www.eluniversal.com.mx/opinion/observatorio-de-reformas-politicas-en-america-latina/peru-una-leccion-para-america-latina/">here</a>.
 </div>
 
