@@ -14,7 +14,7 @@ tags:
 <div style="text-align: center;">
   <figure style="display: inline-block; text-align: center;">
     <img src="/images/crisis-peru.jpeg" style="display: block;">
-    <figcaption style="margin-top: 1px; text-align: right;">Photo credit: Lucas Aguayo Araos/Picture Alliance/Getty Images</figcaption>
+    <figcaption style="margin-top: -10px; text-align: right;">Photo credit: Lucas Aguayo Araos/Picture Alliance/Getty Images</figcaption>
   </figure>
 </div>
 <div style="border: 2px solid grey; padding: 10px;">
