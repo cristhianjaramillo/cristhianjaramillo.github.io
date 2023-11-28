@@ -15,10 +15,9 @@ tags:
 <div style="text-align: center;">
   <figure style="display: inline-block; text-align: center;">
     <img src="/images/reform-politics.jpg" style="display: block; margin: 0 auto;">
-    <figcaption style="margin-top: 3px; text-align: right;">Photo credit: Wikimedia Commons, Natalia Reyes Escobar</figcaption>
+    <figcaption style="margin-top: 1px; text-align: right;">Photo credit: Wikimedia Commons, Natalia Reyes Escobar</figcaption>
   </figure>
 </div>
-
 <div style="border: 2px solid grey; padding: 10px;">
 This text was originally published in Spanish in the Mexican newspaper 'Voz y Voto.' If you wish to read the original article, you can do so <a href="https://www.vozyvoto.com.mx/articulo/los-constantes-cambios-las-reformas-a-los-sistemas-electorales-de-los-legislativos-en-america-latina?category_id=11">here</a>.
 </div>
