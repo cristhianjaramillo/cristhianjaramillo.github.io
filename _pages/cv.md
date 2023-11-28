@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="border: 2px solid grey; padding: 10px;">
-For a comprehensive view of my academic and professional background, you can access and download my full Curriculum Vitae [here](https://cristhianjaramillo.github.io/files/CV_Cristhian%20Jaramillo.pdf). Feel free to explore my qualifications, research experience, and publications.
+For a comprehensive view of my academic and professional background, you can access and download my full Curriculum Vitae <a href="https://cristhianjaramillo.github.io/files/CV_Cristhian%20Jaramillo.pdf">here</a>. Feel free to explore my qualifications, research experience, and publications.
 </div>
 ## <span style='color:#333333'>Professional Profile</span>
 <hr style="border-color:#800080; margin-top: 5px; margin-bottom: 10px">
@@ -141,7 +141,7 @@ French: intermediate.
 
 <hr style="border-color:#800080; margin-top: 5px; margin-bottom: 10px">
 
-**10/2020 -- 09/2022**      **Editor-in-chief of [Elecciones](https://revistas.onpe.gob.pe/index.php/elecciones)**\
+**10/2020 -- 09/2022**       **Editor-in-chief of [Elecciones](https://revistas.onpe.gob.pe/index.php/elecciones)**\
               Electoral Documentation and Investigation Subdivision\
               National Office of Electoral Processes\
               Peru
@@ -151,7 +151,7 @@ French: intermediate.
 -   Developed and maintained the journal's website, managing its content and overseeing its day-to-day operations.
 -   Successfully indexed Elecciones into 18 databases and platforms, contributing to its increased visibility and impact in the academic community.
 
-**01/2015 -- 12/2015**      **Editor-in-chief of [Politai](https://revistas.pucp.edu.pe/index.php/politai)**\
+**01/2015 -- 12/2015**       **Editor-in-chief of [Politai](https://revistas.pucp.edu.pe/index.php/politai)**\
               Faculty of Social Science\
               Pontifical Catholic University of Peru\
               Peru
