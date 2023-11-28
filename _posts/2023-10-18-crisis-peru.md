@@ -15,10 +15,10 @@ tags:
 <div style="text-align: center;">
   <figure style="display: inline-block; text-align: center;">
     <img src="/images/crisis-peru.jpeg" style="display: block; margin: 0 auto;">
-    <figcaption style="margin-top: 5px; text-align: right;">Photo credit: Lucas Aguayo Araos/Picture Alliance/Getty Images</figcaption>
+    <figcaption style="margin-top: 3px; text-align: right;">Photo credit: Lucas Aguayo Araos/Picture Alliance/Getty Images</figcaption>
   </figure>
 </div>
-
+<br>
 <div style="border: 2px solid grey; padding: 10px;">
 This text was originally published in Spanish in the Mexican newspaper 'El Universal.' If you wish to read the original article, you can do so <a href="https://www.eluniversal.com.mx/opinion/observatorio-de-reformas-politicas-en-america-latina/peru-una-leccion-para-america-latina/">here</a>.
 </div>
