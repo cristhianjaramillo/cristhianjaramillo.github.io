@@ -91,7 +91,7 @@ French: intermediate.
 -   Proposed research designs and conducted studies on electoral reforms.
 -   Served as an editorial assistant for the electronic publication of the Blog #ObservatorioReformas, in collaboration with [Voz y Voto](https://www.vozyvoto.com.mx/categoria/observatorioreformas).
 
-**05/2022 -- 06/2022**      **Technical Secretary**\
+**05/2022 -- 06/2022**     **Technical Secretary**\
               2022 Participatory Budget Consultation of Mexico City\
               Electoral Institute of Mexico City\
               Mexico
@@ -141,7 +141,7 @@ French: intermediate.
 
 <hr style="border-color:#800080; margin-top: 5px; margin-bottom: 10px">
 
-**10/2020 -- 09/2022**       **Editor-in-chief of [Elecciones](https://revistas.onpe.gob.pe/index.php/elecciones)**\
+**10/2020 -- 09/2022**        **Editor-in-chief of [Elecciones](https://revistas.onpe.gob.pe/index.php/elecciones)**\
               Electoral Documentation and Investigation Subdivision\
               National Office of Electoral Processes\
               Peru
@@ -151,7 +151,7 @@ French: intermediate.
 -   Developed and maintained the journal's website, managing its content and overseeing its day-to-day operations.
 -   Successfully indexed Elecciones into 18 databases and platforms, contributing to its increased visibility and impact in the academic community.
 
-**01/2015 -- 12/2015**       **Editor-in-chief of [Politai](https://revistas.pucp.edu.pe/index.php/politai)**\
+**01/2015 -- 12/2015**        **Editor-in-chief of [Politai](https://revistas.pucp.edu.pe/index.php/politai)**\
               Faculty of Social Science\
               Pontifical Catholic University of Peru\
               Peru
