@@ -13,16 +13,15 @@ tags:
 > "Reforming should be a process resulting from thorough analysis, but the frequency of these changes in Latin America seems to indicate the opposite."
 
 <div style="text-align: center;">
-  <figure style="display: inline-block; text-align: center;">
+  <figure style="display: inline-block; text-align: center; margin-top: -10px;">
     <img src="/images/reform-politics.jpg" style="display: block; margin: 0 auto;">
     <figcaption style="margin-top: 1px; text-align: right;">Photo credit: Wikimedia Commons, Natalia Reyes Escobar</figcaption>
   </figure>
 </div>
-<div style="border: 2px solid grey; padding: 10px;">
+<div style="border: 2px solid grey; padding: 10px; margin-top: -5px; margin-bottom: 0px;">
 This text was originally published in Spanish in the Mexican newspaper 'Voz y Voto.' If you wish to read the original article, you can do so <a href="https://www.vozyvoto.com.mx/articulo/los-constantes-cambios-las-reformas-a-los-sistemas-electorales-de-los-legislativos-en-america-latina?category_id=11">here</a>.
 </div>
 <br>
-
 In Latin America, electoral reforms have been mostly used to strengthen the rights of certain sectors of the population, increase confidence in the democratic system, bolster political parties, and/or democratize certain public spaces. In this region, reforming has become the favorite response of decision-makers to address issues related to institutional functioning, political organization weakness, and the public's perception of politics, as evidenced by the work of Flavia Freidenberg.
 
 These constant changes to the electoral system have drawn the attention of researchers. Literature related to reform processes has focused on documenting, describing, and evaluating these modifications while proposing new adjustments. Despite the existence of comparative studies in the region, very few of these evaluate reforms over time. The Observatory of Political Reforms in Latin America, a joint project of the Secretariat for Strengthening Democracy of the Organization of American States and the Institute of Legal Research of the National Autonomous University of Mexico, has filled this knowledge gap by investigating, documenting, and assessing reforms from 1977 to the present.
