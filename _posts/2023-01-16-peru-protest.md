@@ -1,6 +1,6 @@
 ---
 title: 'Peru 2022: A democracy carrying burdens'
-date: 2023-10-18
+date: 2023-01-16
 permalink: /posts/2023/01/peru-protest-crisis/
 toc: true
 tags:
