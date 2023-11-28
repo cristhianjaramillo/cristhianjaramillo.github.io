@@ -91,7 +91,7 @@ French: intermediate.
 -   Proposed research designs and conducted studies on electoral reforms.
 -   Served as an editorial assistant for the electronic publication of the Blog #ObservatorioReformas, in collaboration with [Voz y Voto](https://www.vozyvoto.com.mx/categoria/observatorioreformas).
 
-**05/2022 -- 06/2022**     **Technical Secretary**\
+**05/2022 -- 06/2022**       **Technical Secretary**\
               2022 Participatory Budget Consultation of Mexico City\
               Electoral Institute of Mexico City\
               Mexico
