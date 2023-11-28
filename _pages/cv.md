@@ -7,18 +7,16 @@ redirect_from:
   - /resume
 ---
 
-<div style="border: 2px solid red; padding: 10px;">
-For a comprehensive view of my academic and professional background, you can access and download my full Curriculum Vitae [here](https://cristhianjaramillo.github.io/files/CV_Cristhian Jaramillo.pdf). Feel free to explore my qualifications, research experience, and publications.
+<div style="border: 2px solid grey; padding: 10px;">
+For a comprehensive view of my academic and professional background, you can access and download my full Curriculum Vitae [here](https:/cristhianjaramillo.github.io/files/CV_Cristhian Jaramillo.pdf). Feel free to explore my qualifications, research experience, and publications.
 </div>
 
-## [Professional Profile]{style="color:##333333"}
-
+## <span style='color:#333333'>Professional Profile</span>
 <hr style="border-color:#800080; margin-top: 5px; margin-bottom: 10px">
 
 MSc Social Research Methods graduate from the London School of Economics and Political Science with a Bachelor of Social Science in Political Science and Government from the Pontifical Catholic University of Peru. Research Assistant at LSE, Junior Political Analyst at the Observatorio de Reformas Políticas en América Latina. Topics of interest include political parties, electoral reforms, and elections in Latin America.
 
-## [Education & Qualifications]{style="color:##333333"}
-
+## <span style='color:#333333'>Education & Qualifications</span>
 <hr style="border-color:#800080; margin-top: 5px; margin-bottom: 10px">
 
 **09/2022 -- 09/2023**       **MSc Social Research Methods**\
@@ -40,8 +38,7 @@ MSc Social Research Methods graduate from the London School of Economics and Pol
              High-Performance School of Peru\
              Peru
 
-## [Certificates & Courses]{style="color:##333333"}
-
+## <span style='color:#333333'>Certificates & Courses</span>
 <hr style="border-color:#800080; margin-top: 5px; margin-bottom: 10px">
 
 **08/2023**            **Large Language Models**\
@@ -66,8 +63,7 @@ MSc Social Research Methods graduate from the London School of Economics and Pol
              Latin American Association of Political Science\
              Perú
 
-## [Languages]{style="color:##333333"}
-
+## <span style='color:#333333'>Languages</span>
 <hr style="border-color:#800080; margin-top: 5px; margin-bottom: 10px">
 
 Spanish: mother tongue.
@@ -76,8 +72,7 @@ English: IELTS 8.0.
 
 French: intermediate.
 
-## [Career Summary]{style="color:##333333"}
-
+## <span style='color:#333333'>Career Summary</span>
 <hr style="border-color:#800080; margin-top: 5px; margin-bottom: 10px">
 
 **02/2023 -- Present**       **Research Assistant**\
@@ -98,9 +93,9 @@ French: intermediate.
 -   Served as an editorial assistant for the electronic publication of the Blog #ObservatorioReformas, in collaboration with [Voz y Voto](https://www.vozyvoto.com.mx/categoria/observatorioreformas).
 
 **05/2022 -- 06/2022**       **Technical Secretary**\
-               2022 Participatory Budget Consultation of Mexico City\
-               Electoral Institute of Mexico City\
-               Mexico
+              2022 Participatory Budget Consultation of Mexico City\
+              Electoral Institute of Mexico City\
+              Mexico
 
 -   Conducted visits to and evaluated the performance of three polling places.
 -   Coordinated a team of twelve electoral specialists.
@@ -108,14 +103,14 @@ French: intermediate.
 
 **04/2019 -- 03/2020**       **Researcher**\
 **10/2020 -- 09/2022**       Electoral Documentation and Investigation Subdivision\
-               National Office of Electoral Processes\
-               Peru
+              National Office of Electoral Processes\
+              Peru
 
 -   Conducted extensive research that resulted in the publication of two books per year on electoral studies.
 -   Utilised R to contrast quantitative and qualitative data in order to evaluate electoral policies.
 -   Organised and participated in panels and events to present and discuss the findings of the books and other publications.
 
-**01/2019 -- 03/2019**      **Member of the Technical Secretariat**\
+**01/2019 -- 03/2019**       **Member of the Technical Secretariat**\
               High-Level Commission for Political Reform\
               Presidential Office\
               Peru
@@ -125,7 +120,7 @@ French: intermediate.
 -   Coordinated meetings with specialists, governmental institutions, NGOs, and other stakeholders to facilitate collaboration and information sharing.
 -   Co-authored documents proposing electoral policies and reforms.
 
-**04/2018 -- 12/2018**      **Junior Political Analyst**\
+**04/2018 -- 12/2018**       **Junior Political Analyst**\
               Electoral Process Operations Center\
               National Jury of Elections\
               Peru
@@ -134,7 +129,7 @@ French: intermediate.
 -   Developed research proposals in electoral studies, utilising both quantitative and qualitative approaches.
 -   Collaborated on the creation of reports on electoral politics, drawing from both quantitative and qualitative data.
 
-**10/2017 -- 12/2017**      **Research Assistant**\
+**10/2017 -- 12/2017**       **Research Assistant**\
               Innovation for Development\
               Ministry of Education of Peru\
               Peru
@@ -143,11 +138,11 @@ French: intermediate.
 -   Utilised R and Excel to organise this information into tables and graphs.
 -   Collaborated on the drafting of a final report on rural education policy in Peru and presented the findings to four key stakeholders.
 
-## [Editorial Experience]{style="color:##333333"}
+## <span style='color:#333333'>Editorial Experience</span>
 
 <hr style="border-color:#800080; margin-top: 5px; margin-bottom: 10px">
 
-**10/2020 -- 09/2022**      **Editor-in-chief of [Elecciones](https://revistas.onpe.gob.pe/index.php/elecciones)**\
+**10/2020 -- 09/2022**       **Editor-in-chief of [Elecciones](https://revistas.onpe.gob.pe/index.php/elecciones)**\
               Electoral Documentation and Investigation Subdivision\
               National Office of Electoral Processes\
               Peru
@@ -157,7 +152,7 @@ French: intermediate.
 -   Developed and maintained the journal's website, managing its content and overseeing its day-to-day operations.
 -   Successfully indexed Elecciones into 18 databases and platforms, contributing to its increased visibility and impact in the academic community.
 
-**01/2015 -- 12/2015**      **Editor-in-chief of [Politai](https://revistas.pucp.edu.pe/index.php/politai)**\
+**01/2015 -- 12/2015**       **Editor-in-chief of [Politai](https://revistas.pucp.edu.pe/index.php/politai)**\
               Faculty of Social Science\
               Pontifical Catholic University of Peru\
               Peru
@@ -166,7 +161,7 @@ French: intermediate.
 -   Served as Editor-in-Chief for two editions of Politai: Revista de Ciencia Política, "Subnational Politics" and "Illegality and Informality in Latin America".
 -   Indexed Politai: Revista de Ciencia Política on Latindex and Dialnet catalogues.
 
-## [Awards, Grants & Recognitions]{style="color:##333333"}
+## <span style='color:#333333'>Awards, Grants & Recognitions</span>
 
 <hr style="border-color:#800080; margin-top: 5px; margin-bottom: 10px">
 
