@@ -8,9 +8,8 @@ redirect_from:
 ---
 
 <div style="border: 2px solid grey; padding: 10px;">
-For a comprehensive view of my academic and professional background, you can access and download my full Curriculum Vitae [here](https:/cristhianjaramillo.github.io/files/CV_Cristhian Jaramillo.pdf). Feel free to explore my qualifications, research experience, and publications.
+For a comprehensive view of my academic and professional background, you can access and download my full Curriculum Vitae [here](https://cristhianjaramillo.github.io/files/CV_Cristhian%20Jaramillo.pdf). Feel free to explore my qualifications, research experience, and publications.
 </div>
-
 ## <span style='color:#333333'>Professional Profile</span>
 <hr style="border-color:#800080; margin-top: 5px; margin-bottom: 10px">
 
@@ -34,7 +33,7 @@ MSc Social Research Methods graduate from the London School of Economics and Pol
              University Hradec Kralove\
              Czech Republic
 
-**03/2012 - 12/2012**       **International Baccalaureate Diploma Programme**\
+**03/2012 - 12/2012**        **International Baccalaureate Diploma Programme**\
              High-Performance School of Peru\
              Peru
 
@@ -92,7 +91,7 @@ French: intermediate.
 -   Proposed research designs and conducted studies on electoral reforms.
 -   Served as an editorial assistant for the electronic publication of the Blog #ObservatorioReformas, in collaboration with [Voz y Voto](https://www.vozyvoto.com.mx/categoria/observatorioreformas).
 
-**05/2022 -- 06/2022**       **Technical Secretary**\
+**05/2022 -- 06/2022**      **Technical Secretary**\
               2022 Participatory Budget Consultation of Mexico City\
               Electoral Institute of Mexico City\
               Mexico
@@ -101,8 +100,8 @@ French: intermediate.
 -   Coordinated a team of twelve electoral specialists.
 -   Produced a comprehensive report on the elections, including recommendations for improving procedures, and delivered a presentation on the findings.
 
-**04/2019 -- 03/2020**       **Researcher**\
-**10/2020 -- 09/2022**       Electoral Documentation and Investigation Subdivision\
+**04/2019 -- 03/2020**      **Researcher**\
+**10/2020 -- 09/2022**      Electoral Documentation and Investigation Subdivision\
               National Office of Electoral Processes\
               Peru
 
@@ -110,7 +109,7 @@ French: intermediate.
 -   Utilised R to contrast quantitative and qualitative data in order to evaluate electoral policies.
 -   Organised and participated in panels and events to present and discuss the findings of the books and other publications.
 
-**01/2019 -- 03/2019**       **Member of the Technical Secretariat**\
+**01/2019 -- 03/2019**      **Member of the Technical Secretariat**\
               High-Level Commission for Political Reform\
               Presidential Office\
               Peru
@@ -120,7 +119,7 @@ French: intermediate.
 -   Coordinated meetings with specialists, governmental institutions, NGOs, and other stakeholders to facilitate collaboration and information sharing.
 -   Co-authored documents proposing electoral policies and reforms.
 
-**04/2018 -- 12/2018**       **Junior Political Analyst**\
+**04/2018 -- 12/2018**      **Junior Political Analyst**\
               Electoral Process Operations Center\
               National Jury of Elections\
               Peru
@@ -129,7 +128,7 @@ French: intermediate.
 -   Developed research proposals in electoral studies, utilising both quantitative and qualitative approaches.
 -   Collaborated on the creation of reports on electoral politics, drawing from both quantitative and qualitative data.
 
-**10/2017 -- 12/2017**       **Research Assistant**\
+**10/2017 -- 12/2017**      **Research Assistant**\
               Innovation for Development\
               Ministry of Education of Peru\
               Peru
@@ -142,7 +141,7 @@ French: intermediate.
 
 <hr style="border-color:#800080; margin-top: 5px; margin-bottom: 10px">
 
-**10/2020 -- 09/2022**       **Editor-in-chief of [Elecciones](https://revistas.onpe.gob.pe/index.php/elecciones)**\
+**10/2020 -- 09/2022**      **Editor-in-chief of [Elecciones](https://revistas.onpe.gob.pe/index.php/elecciones)**\
               Electoral Documentation and Investigation Subdivision\
               National Office of Electoral Processes\
               Peru
@@ -152,7 +151,7 @@ French: intermediate.
 -   Developed and maintained the journal's website, managing its content and overseeing its day-to-day operations.
 -   Successfully indexed Elecciones into 18 databases and platforms, contributing to its increased visibility and impact in the academic community.
 
-**01/2015 -- 12/2015**       **Editor-in-chief of [Politai](https://revistas.pucp.edu.pe/index.php/politai)**\
+**01/2015 -- 12/2015**      **Editor-in-chief of [Politai](https://revistas.pucp.edu.pe/index.php/politai)**\
               Faculty of Social Science\
               Pontifical Catholic University of Peru\
               Peru
