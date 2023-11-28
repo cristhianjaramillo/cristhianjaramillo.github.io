@@ -12,7 +12,7 @@ tags:
 > "Peru is at a political crossroads. The organization of transparent and fair elections, although crucial, is not enough to fully sustain the rule of law."
 
 <div style="text-align: center;">
-  <figure style="display: inline-block; text-align: center;">
+  <figure style="display: inline-block; text-align: center; margin-top: -10px;">
     <img src="/images/crisis-peru.jpeg" style="display: block;">
     <figcaption style="margin-top: -10px; text-align: right;">Photo credit: Lucas Aguayo Araos/Picture Alliance/Getty Images</figcaption>
   </figure>
