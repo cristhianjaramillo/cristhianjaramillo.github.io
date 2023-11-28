@@ -20,7 +20,7 @@ tags:
 <div style="border: 2px solid grey; padding: 10px; margin-top: -5px; margin-bottom: 0px;">
 This text was originally published in Spanish in the Mexican newspaper 'El Universal.' If you wish to read the original article, you can do so <a href="https://www.eluniversal.com.mx/opinion/observatorio-de-reformas-politicas-en-america-latina/peru-una-leccion-para-america-latina/">here</a>.
 </div>
-
+<br>
 Peru stands out in Latin America as an extreme case of political party collapse, a political context that has been described as a 'party-less democracy'. Following its late transition to democracy in 2001, Peruvian political parties have become mere personalized vehicles, lacking effective presence at the subnational level, without discernible ideological coherence, and sometimes unable to significantly represent the interests of the citizenry.
 
 Faced with this weakness in the party system, legislators, experts, civil society groups, and other actors have driven a process of political and electoral reform. Various investigations conducted by the Observatory of Political Reforms in Latin America reveal that Peru ranks second in the region, after Ecuador, in reform efforts. From 1975 to 2022, 75 modifications to Peru's electoral regulations have been recorded, a process characterized by its irregularity, drastic transformations, and, at times, noticeable contradictions.
