@@ -9,7 +9,6 @@ tags:
   - crisis
   - politics
 ---
-
 > "Peru is at a political crossroads. The organization of transparent and fair elections, although crucial, is not enough to fully sustain the rule of law."
 
 <div style="text-align: center;">
