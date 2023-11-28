@@ -1,7 +1,6 @@
 ---
 title: "Repository: Unravelling Party Discipline in the Global South: A Case Study of Peru Using Beta Regression Analysis"
 excerpt: "<img src='/images/party_discipline.gif'>"
-permalink: /projects/2023/01/thesis-party-discipline/
 collection: projects
 ---
 
