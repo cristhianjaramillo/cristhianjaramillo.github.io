@@ -1,0 +1,43 @@
+---
+title: 'The Peruvian political parties under examination!'
+date: 2022-08-22
+permalink: /posts/2022/08/peru-parties/
+toc: true
+tags:
+  - Peru
+  - political parties
+  - politics
+---
+> "Decentralization created a new scenario of political competition, new actors, and a new agenda. These changes also impacted the party dynamics, revealing the difficulties political parties face in fulfilling their basic functions of representation and interest aggregation."
+
+<div style="text-align: center;">
+  <figure style="display: inline-block; text-align: center; margin-top: -10px;">
+    <img src="/images/political-parties.jpg" style="display: block;">
+    <figcaption style="margin-top: -10px; text-align: right;">Photo credit: Sebastian Castañeda/POOL/AFP/Getty Images</figcaption>
+  </figure>
+</div>
+<div style="border: 2px solid grey; padding: 10px; margin-top: -5px; margin-bottom: 0px;">
+This text was originally published in Spanish in the Mexican newspaper 'Voz y Voto.' If you wish to read the original article, you can do so <a href="https://www.vozyvoto.com.mx/articulo/los-partidos-peruanos-a-examen?category_id=11">here</a>.
+</div>
+<br>
+The Peruvian political and electoral reform process is characterized as irregular, drastic, and, at times, contradictory. Between 1975 and 2020, two Constitutions were introduced (1979 and 1993), a constitutional reform process took place (2018), and the electoral regulations were modified up to 43 times. As evidenced by the databases of the Observatory of Political Reforms in Latin America, Peru stands out as an example of constant reform, registering up to six changes to its legislation related to political parties. The conclusion is clear: rules do not generate certainties.
+
+This hyperactive reform process has also involved the fundamental dynamics of state organization. At the beginning of this century, the decentralization of central government functions was one of the main reforms implemented in Latin America. An immediate consequence of the decentralization reforms was precisely the creation of new levels of government and the organization of elections to elect the corresponding authorities. Decentralization generated a new scenario of political competition, new actors, and a new agenda. These changes in the rules of state organization also affected the party dynamics, highlighting the difficulties political parties face in fulfilling their basic functions of representation and interest aggregation.
+
+This party adaptive crisis is most evident in the subnational scenario. The decentralization process divided the country into three levels: regional, provincial, and district, each with its executive and legislative branches elected every four years in the so-called Regional and Municipal Elections held since 2002. On October 2nd of this year, the fifth iteration of this process will take place, serving as a stage to evaluate if political parties continue to weaken.
+
+One of the main challenges for Peruvian parties in subnational elections is related to the number of electoral districts. Due to the decentralization process, the number of electoral districts for subnational processes has varied over time. The total number of electoral districts has gradually increased with the creation of new provinces and districts. According to the latest report from INFOgob of the National Jury of Elections, elections were organized in 1,854 electoral districts in 2002, 1,857 in 2006, 1,859 in 2010, 1,867 in 2014, 2,095 in 2018, and finally, this year, elections will be held in 2,111. This represents an increase of 13.86% between the 2002 election and those of 2022.
+
+As a result, parties cannot present lists in all electoral districts. The task of strategic coordination across the territory is impossible. Electoral laws themselves acknowledge the impracticality for any party to have a presence in all districts, provinces, and regions of the country. Thus, the electoral system recognizes the presence of organizations similar to parties in objectives but different in scope: regional movements. These organizations replace parties at the subnational level since their activities are concentrated in a specific region and they cannot participate in elections for national political positions (Presidency, Congress, and Andean Parliament).
+
+Another indicator that parties have no incentive to have a presence in all districts is seen in the regulation for the registration of these organizations. For the formation of a party, it is necessary for them to have party committees composed of no less than fifty members affiliated with the organization. In the latest reform established in the Political Organizations Law, these party committees must be present in no less than four-fifths of the country's departments (20 out of 25) and in no less than one-third of the provinces (65 out of 169). Even when the reform aims to strengthen parties, reformers acknowledged that demanding these organizations to cover the entire national territory was an unattainable demand.
+
+This limitation that parties have is also evident when analyzing the participation of these organizations and their results over time. In general terms, Regional and Municipal Elections witness the highest number of lists. On average, between 2002 and 2018, there were 302 lists at the regional level, 1,873 at the provincial level, and 12,121 at the district level. According to an INFOgob report, in the last subnational elections held in 2018, the majority of competing lists belonged to parties (9,036; 62.08%), followed by regional movements (5,469; 37.60%), and with minimal participation, local provincial political organizations (21; 0.14%) and local district political organizations (20; 0.14%).
+
+If the analysis focuses on the presentation of lists in these electoral processes, it is possible to recognize that parties have a greater presence at the subnational level. However, the submission of lists does not necessarily mean that they obtain the positions for which they are nominated or, at the very least, that they are competitive. An evaluation of elected authorities at the subnational level according to the type of political organization they belong to demonstrates that the presence of parties at the subnational level has diminished over time.
+
+Thus, in 2002, parties represented 51.84% of elected authorities, which later decreased to 51.18% in 2006, 35.15% in 2010, 31.44% in 2014, and rose to 46.46% in 2018. Between 2002 and 2018, the presence of parties at the subnational level decreased by 10.37%. In contrast, regional movements have not only increased their participation levels but also their electoral success. These organizations represented 13.10% of total elected authorities in 2002 and then reached 29.90% in 2006, 52.02% in 2010, 61.17% in 2014, and 53.05% in 2018. At the subnational level, regional movements have achieved greater electoral success, recording an increase in the number of elected positions between the first and last election of 304.96%.
+
+The displacement of parties in subnational electoral politics is also evident in the election of the regional governorship, the highest office in competition. When these elections began at this level, political parties occupied 18 out of 25 governorships. In the last election, the number of governors from political parties reached only 5 out of 25, in contrast to the 15 positions held by regional movements.
+
+Thus, the Regional and Municipal Elections of October this year pose a new scenario to evaluate political parties and test if they can still compete effectively at the subnational level. This is within the framework of the electoral reform process of 2019 and 2020, which focused on strengthening these institutions by increasing the requirements for their registration and demanding effective representation to maintain said party registration. Thanks to these measures, the number of Peruvian parties decreased from 24 in 2021 to 12 in 2022. In this cleansing process, two of Peru's oldest political organizations lost their party recognition: the Peruvian Aprista Party - founded in 1924 - and the Christian People's Party - founded in 1966. Thus, in theory, only parties with greater institutional strength will compete in these subnational elections. Therefore, it remains to be seen whether the process to strengthen these institutions induced by the latest political-electoral reform of 2019-2020 has contributed to strengthening the parties, improving their presence in the districts, or, on the contrary, the disconnection between parties and the citizenry continues.
