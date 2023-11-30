@@ -17,10 +17,9 @@ tags:
     <figcaption style="margin-top: -10px; text-align: right;">Photo credit: AFP</figcaption>
   </figure>
 </div>
-<div style="border: 2px solid grey; padding: 10px; margin-top: -5px; margin-bottom: -5px;">
+<div style="border: 2px solid grey; padding: 10px; margin-top: -5px; margin-bottom: -15px;">
 This text was originally published in Spanish in the Colombian newspaper 'Razon Pública.' If you wish to read the original article, you can do so <a href="https://razonpublica.com/castillo-de-naipes/">here</a>.
 </div>
-<br>
 # The Crisis and its Immediate Causes
 
 Since Pedro Castillo assumed the presidency in 2021, his government has grappled with corruption charges, impeachment requests, cabinet changes, and a self-coup attempt leading to the President's detention. While this situation might seem extraordinary for most democracies, in Peru, it's part of the political and institutional crisis that began in 2017, which explains why the country has seen six presidents in six years.
