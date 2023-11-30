@@ -8,6 +8,8 @@ date: 2023-09-06
 location: "Prague, Czechia"
 ---
 
+> Our study highlights Peru's democratic setback post-Odebrecht despite anti-corruption efforts. We aim to understand why trust didn't recover and explore ways to strengthen political integrity. Through varied methods, we analyze Peru's politics, focusing on the link between public sentiment, reforms, and anti-corruption actions.
+
 This paper delves into the far-reaching impact of the Odebrecht scandal, commonly known as Lava Jato, on Latin American politics, with a particular focus on Peru. Despite extensive legal actions against high-profile figures involved in bribery and illegal financing, the scandal failed to restore public trust in Peru's judiciary and electoral bodies. Instead, it led to a setback in the country's democratic progress. 
 
 Our study aims to explore why the prosecution of the Odebrecht case did not improve public confidence in Peru's democratic system and seeks to find ways to maintain political integrity amid such challenges. We've used a mix of engaging methods—utilizing data from various indices such as the Democracy Index, Corruption Perception Index, and Capacity to Combat Corruption Index, alongside qualitative techniques like process tracing—to paint a detailed picture of Peru's political landscape post-Odebrecht. 
