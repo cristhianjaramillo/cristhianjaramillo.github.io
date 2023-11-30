@@ -17,7 +17,7 @@ tags:
     <figcaption style="margin-top: -10px; text-align: right;">Photo credit: AFP</figcaption>
   </figure>
 </div>
-<div style="border: 2px solid grey; padding: 10px; margin-top: -5px; margin-bottom: -11px;">
+<div style="border: 2px solid grey; padding: 10px; margin-top: -5px; margin-bottom: -5px;">
 This text was originally published in Spanish in the Colombian newspaper 'Razon Pública.' If you wish to read the original article, you can do so <a href="https://razonpublica.com/castillo-de-naipes/">here</a>.
 </div>
 # The Crisis and its Immediate Causes
