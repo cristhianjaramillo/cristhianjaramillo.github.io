@@ -12,6 +12,6 @@ Party division in Peru's parliamentary politics has been a recurring and anticip
 
 Through a quantitative analysis, this study posits that the escalation in the fragmentation of parliamentary groups directly correlates with decreased party discipline. It attributes this trend to party affiliations and the intricate dynamics of subnational party competition. The research explores how these factors contribute to the shifting landscape of Peru's Congress, offering insights into the relationship between the proliferation of groups and the internal cohesion of parties. This article was crafted to spark discussions and deepen our understanding of the complexities behind party dynamics within the Peruvian political landscape.
 
-[**Download presentation here**](https://figshare.com/articles/presentation/The_impossibility_of_Party_Unity_Electoral_Rules_Subnational_Electoral_Competition_and_Fragmentation_in_the_Peruvian_Congress_2011-2019_/17704673)
+[**Download the presentation here**](https://figshare.com/articles/presentation/The_impossibility_of_Party_Unity_Electoral_Rules_Subnational_Electoral_Competition_and_Fragmentation_in_the_Peruvian_Congress_2011-2019_/17704673)
 
 [![](images/conference-party-discipline.png)](https://figshare.com/articles/presentation/The_impossibility_of_Party_Unity_Electoral_Rules_Subnational_Electoral_Competition_and_Fragmentation_in_the_Peruvian_Congress_2011-2019_/17704673)
