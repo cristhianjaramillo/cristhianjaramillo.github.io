@@ -11,8 +11,8 @@ redirect_from:
 👋 I am a graduate of the London School of Economics and Political Science, in Social Research Methods. My background includes a Bachelor of Social Science in Political Science and Government from the Pontifical Catholic University of Peru.
 
 <div style="float: right; margin: 0px 10px 0px 10px;">
-    <img src="images/Айвазовский_И.К._Волна.jpg" alt="Image Alt Text" width="345" height="197">
-    <p style="font-size: 11px; text-align: center;">Painting of the week: Wave (1889) by Ivan Aivazovsky</p>
+    <img src="images/The Hay Wain.jpg" alt="Image Alt Text" width="345" height="197">
+    <p style="font-size: 11px; text-align: center;">Painting of the week: The Hay Wain (1821) by John Constable</p>
 </div>
 🔍 Currently, I am a Research Assistant at the Care Policy and Evaluation Centre, LSE, and Researcher at the [Observatorio de Reformas Políticas en América Latina](https://www.reformaspolíticas.org). My research focus on political parties, electoral reforms, and elections in Latin America. 📊 My interests extend to quantitative studies, coding, data visualization using R, and my teaching experience encompasses Statistics for Political Analysis at the Pontifical Catholic University of Peru and other institutions.
 
