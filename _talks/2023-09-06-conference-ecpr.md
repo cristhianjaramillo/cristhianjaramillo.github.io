@@ -1,5 +1,5 @@
 ---
-title: "Safeguarding Political Integrity in a Context of Democratic Backsliding: Evidence from the Peruvian Case"
+title: "<span style='color:#333333'>Safeguarding Political Integrity in a Context of Democratic Backsliding: Evidence from the Peruvian Case</span>"
 collection: talks
 type: "Conference"
 permalink: /talks/2023-09-01-conference-political-integrity
