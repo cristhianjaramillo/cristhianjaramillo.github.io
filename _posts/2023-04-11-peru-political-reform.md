@@ -1,5 +1,5 @@
 ---
-title: '<span style='color:#333333'>The constant changes: reforms to the electoral systems of the legislatures in Latin America</span>'
+title: "<span style='color:#333333'>The constant changes: reforms to the electoral systems of the legislatures in Latin America</span>"
 date: 2023-04-11
 permalink: /posts/2023/04/electoral-reform-latin-america/
 toc: true
