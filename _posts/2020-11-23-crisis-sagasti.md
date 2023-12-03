@@ -1,5 +1,5 @@
 ---
-title: 'The Perpetual Peruvian Crisis: Some Notes on Its Causes and the Uncertain Political Future'
+title: '<span style='color:#333333'>The Perpetual Peruvian Crisis: Some Notes on Its Causes and the Uncertain Political Future</span>'
 date: 2020-11-23
 permalink: /posts/2020/11/crisis-politica-peru/
 toc: true

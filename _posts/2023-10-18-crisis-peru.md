@@ -1,5 +1,5 @@
 ---
-title: 'Peru: a lesson for Latin America'
+title: '<span style='color:#333333'>Peru: a lesson for Latin America</span>'
 date: 2023-10-18
 permalink: /posts/2023/10/peru-lesson-latin-america/
 toc: true

@@ -1,5 +1,5 @@
 ---
-title: 'The Eternal Peruvian Crisis: Beyond Pedro Castillo'
+title: '<span style='color:#333333'>The Eternal Peruvian Crisis: Beyond Pedro Castillo</span>'
 date: 2021-04-10
 permalink: /posts/2021/04/crisis-castillo/
 toc: true

@@ -1,5 +1,5 @@
 ---
-title: 'House of Cards: Peru´s Political Turmoil'
+title: '<span style='color:#333333'>House of Cards: Peru´s Political Turmoil</span>'
 date: 2021-12-11
 permalink: /posts/2021/12/peru-crisis-castillo/
 toc: true
