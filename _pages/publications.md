@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <div style="border: 2px solid grey; padding: 10px;">
-Explore my full academic journey and discover my collection of scholarly works, including books, chapters, papers, reviews, and more, accessible <a href="https://www.researchgate.net/profile/Cristhian-Jaramillo-2/research">here</a>.
+Explore my full academic journey and discover my collection of scholarly works, including books, chapters, papers, reviews, and more, accessible <a href="https://www.researchgate.net/profile/Cristhian-Jaramillo-2/research"><strong>here</strong></a>.
 </div>
 
 ## <span style='color:#333333'>Articles</span>

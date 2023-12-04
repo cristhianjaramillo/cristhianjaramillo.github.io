@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="border: 2px solid grey; padding: 10px;">
-For a comprehensive view of my academic and professional background, you can access and download my full Curriculum Vitae <a href="https://cristhianjaramillo.github.io/files/CV_Cristhian%20Jaramillo.pdf">here</a>. Feel free to explore my qualifications, research experience, and publications.
+For a comprehensive view of my academic and professional background, you can access and download my full Curriculum Vitae <a href="https://cristhianjaramillo.github.io/files/CV_Cristhian%20Jaramillo.pdf"><strong>here</strong></a>. Feel free to explore my qualifications, research experience, and publications.
 </div>
 ## <span style='color:#333333'>Professional Profile</span>
 <hr style="border-color:#800080; margin-top: 5px; margin-bottom: 10px">
