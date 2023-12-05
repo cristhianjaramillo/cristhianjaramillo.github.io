@@ -109,6 +109,9 @@
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
       {% endif %}
+      {% if author.figshare %}
+      <li><a href="https://www.figshare.com/authors/{{ author.figshare }}"><i class="fas fa-database" aria-hidden="true"></i> Figshare</a></li>
+      {% endif %}
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
       {% endif %}
@@ -117,9 +120,6 @@
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
-      {% endif %}
-      {% if author.figshare %}
-        <li><a href="https://www.figshare.com/authors/{{ author.figshare }}"><i class="fas fa-database" aria-hidden="true"></i> Figshare</a></li>
       {% endif %}
     </ul>
   </div>
