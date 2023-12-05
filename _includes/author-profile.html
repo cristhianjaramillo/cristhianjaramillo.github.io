@@ -97,6 +97,9 @@
       {% if author.flickr %}
         <li><a href="https://www.flickr.com/{{ author.flickr }}"><i class="fab fa-fw fa-flickr" aria-hidden="true"></i> Flickr</a></li>
       {% endif %}
+      {% if author.figshare %}
+        <li><a href="https://www.figshare.com/authors/{{ author.figshare }}"><i class="fad fa-server" aria-hidden="true"></i> Figshare</a></li>
+      {% endif %}
       {% if author.codepen %}
         <li><a href="https://codepen.io/{{ author.codepen }}"><i class="fab fa-fw fa-codepen" aria-hidden="true"></i> CodePen</a></li>
       {% endif %}
@@ -114,9 +117,6 @@
       {% endif %}
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
-      {% endif %}
-      {% if author.figshare %}
-      <li><a href="https://www.figshare.com/authors/{{ author.figshare }}"><i class="fas fa-database" aria-hidden="true"></i> Figshare</a></li>
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
