@@ -324,6 +324,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-header:
-  image: /assets/images/image-filename.jpg
