@@ -3,6 +3,7 @@ title: "<span style='color:#333333'>The Peruvian political parties under examina
 date: 2022-08-22
 permalink: /posts/2022/08/peru-parties/
 toc: true
+comments: true
 tags:
   - Peru
   - political parties

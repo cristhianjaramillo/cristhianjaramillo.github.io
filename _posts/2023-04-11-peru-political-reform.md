@@ -3,6 +3,7 @@ title: "<span style='color:#333333'>The constant changes: reforms to the elector
 date: 2023-04-11
 permalink: /posts/2023/04/electoral-reform-latin-america/
 toc: true
+comments: true
 tags:
   - Latin America
   - reform

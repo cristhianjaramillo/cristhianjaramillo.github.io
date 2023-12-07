@@ -3,6 +3,7 @@ title: "<span style='color:#333333'>The Perpetual Peruvian Crisis: Some Notes on
 date: 2020-11-23
 permalink: /posts/2020/11/crisis-politica-peru/
 toc: true
+comments: true
 tags:
   - Peru
   - Francisco Sagasti
