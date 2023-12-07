@@ -3,6 +3,7 @@ title: "<span style='color:#333333'>The Crisis in Peru: Political Causes and a N
 date: 2020-11-24
 permalink: /posts/2020/11/peru-social-movements/
 toc: true
+comments: true
 tags:
   - Peru
   - protest
