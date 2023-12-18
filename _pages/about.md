@@ -11,7 +11,7 @@ redirect_from:
 👋 I am a graduate of the London School of Economics and Political Science, in Social Research Methods. My background includes a Bachelor of Social Science in Political Science and Government from the Pontifical Catholic University of Peru.
 
 <div style="float: right; margin: 0px 10px 0px 10px;">
-    <img src="images/lady_jane.jpg" width="355" height="260">
+    <img src="images/lady_jane.jpg" width="335" height="240">
     <p style="font-size: 11px; text-align: right;">Painting of the week: The Execution of Lady Jane Grey (1833)</p>
 </div>
 🔍 Currently, I am a Research Assistant at the Care Policy and Evaluation Centre, LSE, and Researcher at the [Observatorio de Reformas Políticas en América Latina](https://www.reformaspolíticas.org). My research focus on political parties, electoral reforms, and elections in Latin America. 📊 My interests extend to quantitative studies, coding, data visualization using R, and my teaching experience encompasses Statistics for Political Analysis at the Pontifical Catholic University of Peru and other institutions.
