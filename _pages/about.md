@@ -12,7 +12,7 @@ redirect_from:
 
 <div style="float: right; margin: 0px 10px 0px 10px;">
     <img src="images/lady_jane.jpg" width="360" height="210">
-    <p style="font-size: 12px; text-align: right;">Painting of the week: The Execution of Lady Jane Grey (1833) by Paul Delaroche</p>
+    <p style="font-size: 12px; text-align: right;">Painting of the week: The Execution of Lady Jane Grey (1833)<br>by Paul Delaroche</p>
 </div>
 🔍 Currently, I am a Research Assistant at the Care Policy and Evaluation Centre, LSE, and Researcher at the [Observatorio de Reformas Políticas en América Latina](https://www.reformaspolíticas.org). My research focus on political parties, electoral reforms, and elections in Latin America. 📊 My interests extend to quantitative studies, coding, data visualization using R, and my teaching experience encompasses Statistics for Political Analysis at the Pontifical Catholic University of Peru and other institutions.
 
