@@ -18,6 +18,4 @@ redirect_from:
 
 📚 I have also been involved directing academic journals in Latin America such as [Elecciones](https://revistas.onpe.gob.pe/index.php/elecciones) and [Politai](https://revistas.pucp.edu.pe/index.php/politai), contributing to their visibility in academic circles.
 
-🏅 Thanks to my efforts, I have been fortunate to receive grants, scholarships, and awards recognizing my academic achievements. Notable among these are the Beca Generación Bicentenario Scholarship, the Solidarity Academic Encouragement Scholarships (BEAS), and the Colegio Mayor Secundario Presidente del Perú Scholarship. These recognitions have significantly supported my academic journey.
-
 ✨ Beyond my academic work, I hold a profound fascination for art, particularly paintings stemming from the Impressionist movement. I frequently curate and share artworks that catch my attention on my [Art Blog](https://artchronicles.tumblr.com/). ♟️Additionally, while I do not compete at a professional level, I find immense joy in playing chess and am an enthusiastic spectator of the game.
