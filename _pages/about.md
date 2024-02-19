@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 👋 I am a graduate of the London School of Economics and Political Science, in Social Research Methods. My background includes a Bachelor of Social Science in Political Science and Government from the Pontifical Catholic University of Peru.
 
 <div style="float: right; margin: 0px 10px 0px 10px;">
