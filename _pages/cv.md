@@ -13,7 +13,7 @@ For a comprehensive view of my academic and professional background, you can acc
 ## <span style='color:#333333'>Professional Profile</span>
 <hr style="border-color:#000000; margin-top: 5px; margin-bottom: 5px">
 
-MSc Social Research Methods graduate from the London School of Economics and Political Science with a Bachelor of Social Science in Political Science and Government from the Pontifical Catholic University of Peru. Research Assistant at LSE, Junior Political Analyst at the Observatorio de Reformas Políticas en América Latina. Topics of interest include political parties, electoral reforms, and elections in Latin America.
+MSc Social Research Methods at the London School of Economics and Political Science. Bachelor of Social Science in Political Science and Government for the Pontifical Catholic University of Peru. Research Assistant at the London School of Economics and Political Science. Researcher for the Observatorio de Reformas Políticas en América Latina. Ex-editor-in-chief of the academic journals “Politai” and “Elecciones”. Proven track record in quantitative research, data science, web scraping, and data visualisation in Excel, R and SPSS.
 
 ## <span style='color:#333333'>Education & Qualifications</span>
 <hr style="border-color:#000000; margin-top: 5px; margin-bottom: 5px">
@@ -79,8 +79,9 @@ French: intermediate.
               The London School of Economics and Political Science\
               United Kingdom
 
--   Conducted data analysis using API's and created comprehensive reports.
--   Utilised R for data visualisation, resulting in the creation of dynamic reports in HTML.
+-   Developed data analysis using APIs and created 32 comprehensive reports regarding the UK care policy.
+-   Implemented R for data visualisation, resulting in the creation of 32 reports in HTML.
+-   Developed comprehensive databases to compile and analyse socioeconomic variables and care policy statuses of UK local authorities and regions.
 
 **11/2020 -- Present**       **Researcher**\
               Observatorio de Reformas Políticas en América Latina\
@@ -90,6 +91,14 @@ French: intermediate.
 -   Collected quantitative and qualitative information on political reforms in Peru through an evaluation of electoral legislation.
 -   Proposed research designs and conducted studies on electoral reforms.
 -   Served as an editorial assistant for the electronic publication of the Blog #ObservatorioReformas, in collaboration with [Voz y Voto](https://www.vozyvoto.com.mx/categoria/observatorioreformas).
+
+**08/2023 -- 12/2024**       **Research Assistant**\
+              The mis(uses) of artificial intelligence in public policy\
+              International School for Government - King’s College London\
+              United Kingdom
+
+-   Conducted an extensive literature review on the application of AI in public policy, analysing over 50 academic papers, reports, and articles.
+-   Developed a comprehensive database of 40 cases documenting AI utilisation by public authorities, incorporating data from news sources, governmental reports, and other secondary materials.
 
 **05/2022 -- 06/2022**      **Technical Secretary**\
               2022 Participatory Budget Consultation of Mexico City\
