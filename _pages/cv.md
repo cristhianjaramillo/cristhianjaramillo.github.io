@@ -65,7 +65,7 @@ MSc Social Research Methods at the London School of Economics and Political Scie
 ## <span style='color:#333333'>Languages</span>
 <hr style="border-color:#000000; margin-top: 5px; margin-bottom: 5px">
 
-Spanish: mother tongue.
+Spanish: native language.
 
 English: IELTS 8.0.
 
