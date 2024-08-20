@@ -93,9 +93,9 @@ French: intermediate.
 -   Served as an editorial assistant for the electronic publication of the Blog #ObservatorioReformas, in collaboration with [Voz y Voto](https://www.vozyvoto.com.mx/categoria/observatorioreformas).
 
 **08/2023 -- 12/2024**       **Research Assistant**\
-              The mis(uses) of artificial intelligence in public policy\
-              International School for Government - King’s College London\
-              United Kingdom
+               The mis(uses) of artificial intelligence in public policy\
+               International School for Government - King’s College London\
+               United Kingdom
 
 -   Conducted an extensive literature review on the application of AI in public policy, analysing over 50 academic papers, reports, and articles.
 -   Developed a comprehensive database of 40 cases documenting AI utilisation by public authorities, incorporating data from news sources, governmental reports, and other secondary materials.
