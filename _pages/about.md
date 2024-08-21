@@ -24,10 +24,8 @@ redirect_from:
 ✨ Beyond my academic work, I hold a profound fascination for art, particularly paintings stemming from the Impressionist movement. I frequently curate and share artworks that catch my attention on my [Art Blog](https://artchronicles.tumblr.com/). ♟️Additionally, while I do not compete at a professional level, I find immense joy in playing chess and am an enthusiastic spectator of the game.
 
 <div style="text-align: center; margin: 0; padding: 0;">
-  <img src="images/separation.png" alt="Separation Image" style="max-width: 50%; height: auto; margin: 0;">
-</div>
-<div class="container" style="margin-top: 0; padding: 0;">
-  <div class="alert alert-info" role="alert" style="margin: 0; padding: 0;">
+  <img src="images/separation.png" alt="Separation Image" style="max-width: 50%; height: auto; margin: 0; display: block;">
+  <div class="alert alert-info" role="alert" style="margin: 0; padding: 0; display: inline-block;">
     {% assign latest_post = site.posts | first %}
     <h4 class="alert-heading" style="font-size: 1.8rem; margin-bottom: 0.5rem; color: #333333;">Latest Post:</h4>
     <h5 style="font-size: 1.5rem; margin-top: 0.2rem;">
