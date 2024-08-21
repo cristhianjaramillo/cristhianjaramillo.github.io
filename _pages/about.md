@@ -25,7 +25,7 @@ redirect_from:
 
 <!-- Centered Image -->
 <div style="text-align: center; margin: 0; padding: 0;">
-  <img src="images/separation.png" alt="Separation Image" style="max-width: 50%; height: auto; display: inline-block;">
+  <img src="images/separation.png" alt="Separation Image" style="max-width: 100%; height: auto; display: inline-block;">
 </div>
 
 <!-- Alert Content -->
