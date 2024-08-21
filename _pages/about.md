@@ -23,19 +23,19 @@ redirect_from:
 
 ✨ Beyond my academic work, I hold a profound fascination for art, particularly paintings stemming from the Impressionist movement. I frequently curate and share artworks that catch my attention on my [Art Blog](https://artchronicles.tumblr.com/). ♟️Additionally, while I do not compete at a professional level, I find immense joy in playing chess and am an enthusiastic spectator of the game.
 
-<div class="image-container">
-  <img src="images/separation.png" alt="Separation Image" style="max-width: 100%; height: auto;">
+<!-- Centered Image -->
+<div style="text-align: center; margin: 0; padding: 0;">
+  <img src="images/separation.png" alt="Separation Image" style="max-width: 100%; height: auto; display: inline-block;">
 </div>
-  
-  <!-- Alert Content -->
-  <div style="margin: 0; padding: 0;">
-    {% assign latest_post = site.posts | first %}
-    <h4 style="font-size: 1.8rem; margin: 0; color: #333333;">Latest Post:</h4>
-    <h5 style="font-size: 1.5rem; margin: 0;">
-      <a href="{{ latest_post.url }}" style="text-decoration: underline; color: #333333;">
-        {{ latest_post.title }}
-      </a>
-    </h5>
-    <p style="margin: 0.5rem 0 0 0;">{{ latest_post.excerpt }}</p>
-  </div>
+
+<!-- Alert Content -->
+<div style="text-align: left; margin: 0; padding: 0;">
+  {% assign latest_post = site.posts | first %}
+  <h4 style="font-size: 1.8rem; margin: 0; color: #333333;">Latest Post:</h4>
+  <h5 style="font-size: 1.5rem; margin: 0;">
+    <a href="{{ latest_post.url }}" style="text-decoration: underline; color: #333333;">
+      {{ latest_post.title }}
+    </a>
+  </h5>
+  <p style="margin: 0.5rem 0 0 0;">{{ latest_post.excerpt }}</p>
 </div>
