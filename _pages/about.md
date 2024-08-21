@@ -26,11 +26,10 @@ redirect_from:
 <div style="text-align: center;">
   <img src="images/separation.png" alt="Separation Image" style="max-width: 100%; height: auto;">
 </div>
-
 <div class="container">
   <div class="alert alert-info" role="alert">
     {% assign latest_post = site.posts | first %}
-    <h4 class="alert-heading" style="font-size: 1.5rem; margin-bottom: 0.5rem;">Latest Post:</h4>
+    <h4 class="alert-heading" style="font-size: 1.8rem; margin-bottom: 0.5rem;">Latest Post:</h4>
     <h5 style="font-size: 1.5rem; margin-top: 0.2rem;">
       <a href="{{ latest_post.url }}" style="text-decoration: underline; color: inherit;">
         {{ latest_post.title }}
