@@ -27,7 +27,7 @@ redirect_from:
 <div style="text-align: center; margin: 0; padding: 0;">
   <img src="images/separation.png" alt="Separation Image" style="max-width: 50%; height: auto; display: inline-block;">
 </div>
-<br>
+
 <!-- Alert Content -->
 <div style="text-align: left; margin: 0; padding: 0;">
   {% assign latest_post = site.posts | first %}
