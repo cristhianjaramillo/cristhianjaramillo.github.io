@@ -23,9 +23,9 @@ redirect_from:
 
 ✨ Beyond my academic work, I hold a profound fascination for art, particularly paintings stemming from the Impressionist movement. I frequently curate and share artworks that catch my attention on my [Art Blog](https://artchronicles.tumblr.com/). ♟️Additionally, while I do not compete at a professional level, I find immense joy in playing chess and am an enthusiastic spectator of the game.
 
-<div style="text-align: left; margin: 0; padding: 0;">
-  <!-- Top Border Line -->
-  <div style="border-top: 2px solid #333333; margin: 0; padding: 0;"></div>
+<div class="image-container">
+  <img src="images/separation.png" alt="Separation Image" style="max-width: 100%; height: auto;">
+</div>
   
   <!-- Alert Content -->
   <div style="margin: 0; padding: 0;">
