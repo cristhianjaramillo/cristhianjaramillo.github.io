@@ -10,7 +10,7 @@ tags:
   - electronic voting
   - elections
 ---
-> "Electronic voting is crucial for including those who cannot travel."
+> "Electronic voting, whether in-person or remote, is the technological promise to modernize elections worldwide. Speed, accuracy, and inclusion are the key words for this tool, designed to address the logistical challenges of traditional elections."
 
 <div style="text-align: center;">
   <figure style="display: inline-block; text-align: center; margin-top: -10px;">

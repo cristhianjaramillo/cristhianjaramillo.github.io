@@ -26,7 +26,7 @@ redirect_from:
 <div class="container">
   <div class="alert alert-info" role="alert">
     {% assign latest_post = site.posts | first %}
-    <h4 class="alert-heading">Latest Post: {{ latest_post.title }}</h4>
+    <h4 class="alert-heading" style="font-size: 2rem;">Latest Post: {{ latest_post.title }}</h4>
     <p>{{ latest_post.excerpt }}</p>
     <a href="{{ latest_post.url }}" class="btn btn-primary">Read more</a>
   </div>
