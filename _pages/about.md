@@ -26,11 +26,12 @@ redirect_from:
 <div class="container">
   <div class="alert alert-info" role="alert">
     {% assign latest_post = site.posts | first %}
-    <h4 class="alert-heading" style="font-size: 2rem;">Latest Post:</h4>
-    <h5 style="font-size: 1.5rem;">
+    <h4 class="alert-heading" style="font-size: 2rem; margin-bottom: 0.5rem;">Latest Post:</h4>
+    <h5 style="font-size: 1.5rem; margin-top: 0.2rem;">
       <a href="{{ latest_post.url }}" style="text-decoration: none; color: inherit;">
         {{ latest_post.title }}
       </a>
     </h5>
+    <p style="margin-top: 0.5rem;">{{ latest_post.excerpt }}</p>
   </div>
 </div>
