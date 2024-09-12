@@ -24,10 +24,7 @@ redirect_from:
 ✨ Beyond my academic work, I hold a profound fascination for art, particularly paintings stemming from the Impressionist movement. I frequently curate and share artworks that catch my attention on my [Art Blog](https://artchronicles.tumblr.com/).♟️Additionally, while I do not compete at a professional level, I find immense joy in playing chess and am an enthusiastic spectator of the game.
 <br>
 <div style="text-align: left; margin: 0; padding: 0;">
-  <!-- Top Border Line -->
   <div style="border-top: 2px solid #333333; margin: 0; padding: 0;"></div>
-<br>
-<!-- Alert Content -->
 <div style="text-align: left; margin: 1; padding: 0;">
   {% assign latest_post = site.posts | first %}
   <h4 style="font-size: 1.6rem; margin: 0; color: #333333;">Last Post:</h4>
