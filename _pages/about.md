@@ -39,13 +39,13 @@ redirect_from:
   <p style="margin: 0.5rem 0 0 0;">{{ latest_post.excerpt }}</p>
 </div>
 <div style="text-align: left; margin: 1; padding: 0;">
-  {% assign first_article = site.publications | where_exp: "item", "item.type == 'article'" | sort: 'date' | first %}
-  <h4 style="font-size: 1.6rem; margin: 0; color: #333333;">First Article Publication:</h4>
+  {% assign last_article = site.publications | where_exp: "item", "item.type == 'article'" | sort: 'date' | reverse | first %}
+  <h4 style="font-size: 1.6rem; margin: 0; color: #333333;">Last Article Publication:</h4>
   <h5 style="font-size: 1.5rem; margin: 0;">
-    <a href="{{ first_article.url }}" style="text-decoration: underline; color: #333333;">
-      {{ first_article.title }}
+    <a href="{{ last_article.url }}" style="text-decoration: underline; color: #333333;">
+      {{ last_article.title }}
     </a>
   </h5>
-  <p style="margin: 0.5rem 0 0 0;">{{ first_article.citation }}</p>
-  <p style="margin: 0.5rem 0 0 0;">{{ first_article.excerpt }}</p>
+  <p style="margin: 0.5rem 0 0 0;">{{ last_article.citation }}</p>
+  <p style="margin: 0.5rem 0 0 0;">{{ last_article.excerpt }}</p>
 </div>
