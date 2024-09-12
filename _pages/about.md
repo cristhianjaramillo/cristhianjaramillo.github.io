@@ -30,7 +30,7 @@ redirect_from:
 <!-- Alert Content -->
 <div style="text-align: left; margin: 1; padding: 0;">
   {% assign latest_post = site.posts | first %}
-  <h4 style="font-size: 1.6rem; margin: 0; color: #333333;">Latest Post:</h4>
+  <h4 style="font-size: 1.6rem; margin: 0; color: #333333;">Last Post:</h4>
   <h5 style="font-size: 1.5rem; margin: 0;">
     <a href="{{ latest_post.url }}" style="text-decoration: underline; color: #333333;">
       {{ latest_post.title }}
