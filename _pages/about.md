@@ -36,7 +36,7 @@ redirect_from:
       {{ latest_post.title }}
     </a>
   </h5>
-  <p style="margin: 0.5rem 0 0 0;">{{ latest_post.excerpt }}</p>
+  <p style="margin: 0.2 rem 0 0 0;">{{ latest_post.excerpt }}</p>
 </div>
 <div style="text-align: left; margin: 1; padding: 0;">
   {% assign last_article = site.publications | where_exp: "item", "item.type == 'article'" | sort: 'date' | reverse | first %}
