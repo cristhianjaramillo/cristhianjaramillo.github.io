@@ -1,6 +1,6 @@
 ---
-title: "<span style='color:#333333'>Repository: Unravelling Party Discipline in the Global South: A Case Study of Peru Using Beta Regression Analysis</span>"
-excerpt: "<img src='/images/party_discipline.gif'>"
+title: "<span style='color:#333333'>[EN]Repository: Unravelling Party Discipline in the Global South: A Case Study of Peru Using Beta Regression Analysis</span>"
+excerpt: "<img src='/images/git-thesis-en.png'>"
 permalink: /projects/party-discipline/
 comments: true
 collection: projects
