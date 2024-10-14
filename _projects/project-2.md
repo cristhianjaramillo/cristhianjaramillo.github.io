@@ -6,7 +6,7 @@ comments: true
 collection: projects
 ---
 
-**Accede al repositorio completo aquí: [GitHub - cristhianjaramillo/dissertation_partydiscipline](https://github.com/cristhianjaramillo/dissertation_partydiscipline)**
+**Accede al repositorio completo aquí: [GitHub - cristhianjaramillo/dissertation_partydiscipline_esp](https://github.com/cristhianjaramillo/dissertation_partydiscipline_esp)**
 
 **Lee la tesis completa aquí: [ResearchGate](https://www.researchgate.net/publication/384898837_Unravelling_Party_Discipline_in_the_Global_South_A_Case_Study_of_Peru_Using_Beta_Regression_Analysis)**
 
