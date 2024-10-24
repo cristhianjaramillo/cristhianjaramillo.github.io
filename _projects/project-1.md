@@ -8,7 +8,7 @@ collection: projects
 
 **Access the full repository here: [GitHub - cristhianjaramillo/dissertation_partydiscipline](https://github.com/cristhianjaramillo/dissertation_partydiscipline)**
 
-**Read the full thesis here: [ResearchGate](https://www.researchgate.net/publication/384898837_Unravelling_Party_Discipline_in_the_Global_South_A_Case_Study_of_Peru_Using_Beta_Regression_Analysis)**
+**Read the full thesis here: [ResearchGate](https://www.researchgate.net/publication/384005189_Unravelling_Party_Discipline_in_the_Global_South_A_Case_Study_of_Peru_Using_Beta_Regression_Analysis)**
 
 This repository houses my thesis titled "Unravelling Party Discipline in the Global South: A Case Study of Peru Using Beta Regression Analysis," part of the MSc Social Research Methods program at the London School of Economics and Political Science. It explores party control's correlation with party discipline in Peru (2011-2019) through a party discipline index constructed from MPs' voting behaviors.
 
