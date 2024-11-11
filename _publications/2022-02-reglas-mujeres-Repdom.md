@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-reglas-mujeres-Republica-Dominicana
 excerpt: ''
 date: 2022-11-03
-venue: 'República Dominicana: reglas débiles, partidos esquivos, escasa articulación social y baja representación descriptiva de las mujeres'
+venue: 'La construcción de democracias paritarias en América Latina. Régimen electoral de género, actores críticos y representación descriptiva de las mujeres (1990-2022)'
 paperurl: 'https://rb.gy/vk40tx'
 citation: 'Jaramillo, Cristhian. (2022). &quot;República Dominicana: reglas débiles, partidos esquivos, escasa articulación social y baja representación descriptiva de las mujeres.&quot; In: <i>La construcción de democracias paritarias en América Latina. Régimen electoral de género, actores críticos y representación descriptiva de las mujeres (1990-2022)</i> edited by Flavia Freidenberg & Karolina Gilas. México City: INE, UNAM.'
 type: book_chapter
