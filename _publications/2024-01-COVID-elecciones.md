@@ -1,10 +1,10 @@
 ---
-title: "<span style='color:#333333'>COVID-19 y las elecciones en América Latina: el impacto de los procesos electorales en el número de casos registrados</span>"
+title: "<span style='color:#333333'>COVID 19 y las elecciones en América Latina: el impacto de los procesos electorales en el número de casos registrados</span>"
 collection: publications
 permalink: /publication/2024-COVID-elecciones
 excerpt: ''
 date: 2024-11-25
-venue: 'COVID-19 y las elecciones en América Latina: el impacto de los procesos electorales en el número de casos registrados'
+venue: 'COVID 19 y las elecciones en América Latina: el impacto de los procesos electorales en el número de casos registrados'
 paperurl: 'https://bit.ly/3O4yhwt'
 citation: 'Jaramillo, Cristhian. (2024). &quot;COVID-19 y las elecciones en América Latina: el impacto de los procesos electorales en el número de casos registrados.&quot; In: <i>La capacidad de resiliencia de las democracias: elecciones y política en contexto de pandemia</i> edited by Flavia Freidenberg. México City: UNAM.'
 type: book_chapter
