@@ -21,13 +21,13 @@ MSc Social Research Methods at the London School of Economics and Political Scie
 **09/2022 -- 09/2023**       **MSc Social Research Methods**\
              Department of Methodology\
              The London School of Economics and Political Science\
-             England
+             England\
              Dissertation (distinction): 'Unravelling Party Discipline in the Global South: A Case Study of Peru Using Beta Regression Analysis'
 
 **03/2012 -- 12/2017**       **Bachelor of Social Science in Political Science and Government**\
              Department of Social Science\
              Pontifical Catholic University of Peru\
-             Peru
+             Peru\
              Dissertation (distinction): 'Catching the Big Fish: Subnational Corruption in the Cases of Callao and Tumbes'
 
 **01/2017 -- 07/2017**       **Academic exchange**\
