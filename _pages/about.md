@@ -15,7 +15,7 @@ redirect_from:
     <img src="images/ivan_theterrible.jpg" width="335" height="240">
     <p style="font-size: 11px; text-align: right;">Painting of the week: Ivan the Terrible and His Son Ivan (1883-85)</p>
 </div>
-🔍 Currently, I am a Research Assistant at the Care Policy and Evaluation Centre, LSE, and Researcher at the [Observatorio de Reformas Políticas en América Latina](https://www.reformaspolíticas.org). My research focus on political parties, electoral reforms, and elections in Latin America. 
+🔍 Currently, I am a Research Assistant at the Care Policy and Evaluation Centre, LSE, and Researcher at the [Observatorio de Reformas Políticas en América Latina](https://www.reformaspolíticas.org). My research focuses on political reforms, public policy, and governance. 
 
 📚 I have also been involved directing academic journals in Latin America such as [Elecciones](https://revistas.onpe.gob.pe/index.php/elecciones) and [Politai](https://revistas.pucp.edu.pe/index.php/politai), contributing to their visibility in academic circles.
 
