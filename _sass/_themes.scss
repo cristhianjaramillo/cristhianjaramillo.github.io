@@ -105,12 +105,18 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : #000;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : #000;
-$masthead-link-color-hover  : mix(#000, #000, 25%);
+// Use a medium grey for links by default
+$link-color                 : #666666;               // medium grey
 
+// On hover, make it slightly darker grey
+$link-color-hover           : #444444;               // darker grey on hover
+
+// For visited links, keep a consistent grey but lighter
+$link-color-visited         : #888888;               // lighter grey for visited links
+
+// For masthead links (top navigation?), use similar grey tones
+$masthead-link-color        : #666666;
+$masthead-link-color-hover  : #444444;
 
 /*
    Breakpoints
