@@ -10,12 +10,12 @@ redirect_from:
 <div style="border: 2px solid grey; padding: 10px;">
 For a comprehensive view of my academic and professional background, you can access and download my full Curriculum Vitae <a href="https://cristhianjaramillo.github.io/files/CV_Cristhian%20Jaramillo.pdf"><strong>here</strong></a>. Feel free to explore my qualifications, research experience, and publications.
 </div>
-## <span style='color:#333333'>Professional Profile</span>
+## <span>Professional Profile</span>
 <hr style="border-color:#000000; margin-top: 5px; margin-bottom: 5px">
 
 MSc Social Research Methods at the London School of Economics and Political Science. Bachelor of Social Science in Political Science and Government for the Pontifical Catholic University of Peru. Research Assistant at the London School of Economics and Political Science. Researcher for the Observatorio de Reformas Políticas en América Latina. Ex-editor-in-chief of the academic journals “Politai” and “Elecciones”. Proven track record in quantitative research, data science, web scraping, and data visualisation in Excel, R and SPSS.
 
-## <span style='color:#333333'>Education & Qualifications</span>
+## <span>Education & Qualifications</span>
 <hr style="border-color:#000000; margin-top: 5px; margin-bottom: 5px">
 
 **09/2022 -- 09/2023**       **MSc Social Research Methods**\
@@ -41,7 +41,7 @@ MSc Social Research Methods at the London School of Economics and Political Scie
              High-Performance School of Peru\
              Peru
 
-## <span style='color:#333333'>Certificates & Courses</span>
+## <span>Certificates & Courses</span>
 <hr style="border-color:#000000; margin-top: 5px; margin-bottom: 5px">
 
 **08/2023**            **Large Language Models**\
@@ -66,7 +66,7 @@ MSc Social Research Methods at the London School of Economics and Political Scie
              Latin American Association of Political Science\
              Perú
 
-## <span style='color:#333333'>Languages</span>
+## <span>Languages</span>
 <hr style="border-color:#000000; margin-top: 5px; margin-bottom: 5px">
 
 Spanish: native language.
@@ -75,7 +75,7 @@ English: IELTS 8.0.
 
 French: intermediate.
 
-## <span style='color:#333333'>Career Summary</span>
+## <span>Career Summary</span>
 <hr style="border-color:#000000; margin-top: 5px; margin-bottom: 5px">
 
 **02/2023 -- Present**       **Research Assistant**\
@@ -150,7 +150,7 @@ French: intermediate.
 -   Utilised R and Excel to organise this information into tables and graphs.
 -   Collaborated on the drafting of a final report on rural education policy in Peru and presented the findings to four key stakeholders.
 
-## <span style='color:#333333'>Editorial Experience</span>
+## <span>Editorial Experience</span>
 <hr style="border-color:#000000; margin-top: 5px; margin-bottom: 5px">
 
 **10/2020 -- 09/2022**        **Editor-in-chief of [Elecciones](https://revistas.onpe.gob.pe/index.php/elecciones)**\
@@ -172,7 +172,7 @@ French: intermediate.
 -   Served as Editor-in-Chief for two editions of Politai: Revista de Ciencia Política, "Subnational Politics" and "Illegality and Informality in Latin America".
 -   Indexed Politai: Revista de Ciencia Política on Latindex and Dialnet catalogues.
 
-## <span style='color:#333333'>Awards, Grants & Recognitions</span>
+## <span>Awards, Grants & Recognitions</span>
 <hr style="border-color:#000000; margin-top: 5px; margin-bottom: 5px">
 
 **2023**                **Oxford LLMS Workshop travel grant**\

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "<span style='color:#333333'>Publications</span>"
+title: "<span>Publications</span>"
 permalink: /publications/
 author_profile: true
 ---
@@ -9,7 +9,7 @@ author_profile: true
 Explore my full academic journey and discover my collection of scholarly works, including books, chapters, papers, reviews, and more, accessible <a href="https://www.researchgate.net/profile/Cristhian-Jaramillo-2/research"><strong>here</strong></a>.
 </div>
 
-## <span style='color:#333333'>Articles</span>
+## <span>Articles</span>
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
@@ -22,7 +22,7 @@ Explore my full academic journey and discover my collection of scholarly works, 
   {% include archive-single.html %}
 {% endfor %}
 
-## <span style='color:#333333'>Book chapters</span>
+## <span>Book chapters</span>
 
 {% if author.googlescholar %}
   You can also find my book chapters on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
@@ -35,7 +35,7 @@ Explore my full academic journey and discover my collection of scholarly works, 
   {% include archive-single.html %}
 {% endfor %}
 
-## <span style='color:#333333'>Books</span>
+## <span>Books</span>
 
 {% if author.googlescholar %}
   You can also find my books on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>

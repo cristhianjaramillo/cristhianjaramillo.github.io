@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<span style='color:#333333'>Welcome to my academic page!</span>"
+title: "<span>Welcome to my academic page!</span>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -30,9 +30,9 @@ redirect_from:
 <!-- Alert Content -->
 <div style="text-align: left; margin: 1; padding: 0;">
   {% assign latest_post = site.posts | first %}
-  <h4 style="font-size: 1.4rem; margin: 0; color: #333333;">Last Post:</h4>
+  <h4 style="font-size: 1.4rem; margin: 0;">Last Post:</h4>
   <h5 style="font-size: 1.3rem; margin: 0;">
-    <a href="{{ latest_post.url }}" style="text-decoration: underline; color: #333333;">
+    <a href="{{ latest_post.url }}" style="text-decoration: underline;">
       {{ latest_post.title }}
     </a>
   </h5>
@@ -40,9 +40,9 @@ redirect_from:
 </div>
 <div style="text-align: left; margin: 1; padding: 0;">
   {% assign last_article = site.publications | where_exp: "item", "item.type == 'article'" | sort: 'date' | reverse | first %}
-  <h4 style="font-size: 1.4rem; margin: 0; color: #333333;">Last Article:</h4>
+  <h4 style="font-size: 1.4rem; margin: 0;">Last Article:</h4>
   <h5 style="font-size: 1.3rem; margin: 0;">
-    <a href="{{ last_article.url }}" style="text-decoration: underline; color: #333333;">
+    <a href="{{ last_article.url }}" style="text-decoration: underline;">
       {{ last_article.title }}
     </a>
   </h5>
