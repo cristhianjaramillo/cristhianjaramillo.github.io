@@ -1,5 +1,5 @@
 ---
-title: "<span style='color:#333333'>Elecciones municipales complementarias en distritos post conflicto electoral en Perú</span>"
+title: "<span>Elecciones municipales complementarias en distritos post conflicto electoral en Perú</span>"
 collection: publications
 permalink: /publication/2020-01-elecciones-suplementarias
 excerpt: ''

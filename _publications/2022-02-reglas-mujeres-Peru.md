@@ -1,5 +1,5 @@
 ---
-title: "<span style='color:#333333'>Perú: reglas fuertes, sistema electoral poco amigable y baja representación descriptiva de las mujeres</span>"
+title: "<span>Perú: reglas fuertes, sistema electoral poco amigable y baja representación descriptiva de las mujeres</span>"
 collection: publications
 permalink: /publication/2022-reglas-mujeres-Peru
 excerpt: ''

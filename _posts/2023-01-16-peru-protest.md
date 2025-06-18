@@ -1,5 +1,5 @@
 ---
-title: "<span style='color:#333333'>Peru 2022: A democracy carrying burdens</span>"
+title: "<span>Peru 2022: A democracy carrying burdens</span>"
 date: 2023-01-16
 permalink: /posts/2023/01/peru-protest-crisis/
 toc: true

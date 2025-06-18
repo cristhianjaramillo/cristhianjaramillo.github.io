@@ -1,5 +1,5 @@
 ---
-title: "<span style='color:#333333'>The Crisis in Peru: Political Causes and a Necessary Police Reform</span>"
+title: "<span>The Crisis in Peru: Political Causes and a Necessary Police Reform</span>"
 date: 2020-11-24
 permalink: /posts/2020/11/peru-social-movements/
 toc: true

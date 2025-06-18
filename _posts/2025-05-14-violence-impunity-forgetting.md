@@ -1,5 +1,5 @@
 ---
-title: "<span style='color:#333333'>Violence, impunity and memory</span>"
+title: "<span>Violence, impunity and memory</span>"
 date: 2025-05-14
 permalink: /posts/2025/03/violence-impunity-memory/
 toc: true

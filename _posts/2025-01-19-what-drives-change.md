@@ -1,5 +1,5 @@
 ---
-title: "<span style='color:#333333'>What drives change in election years?</span>"
+title: "<span>What drives change in election years?</span>"
 date: 2025-01-19
 permalink: /posts/2025/01/what-drives-change-in-election-years/
 toc: true

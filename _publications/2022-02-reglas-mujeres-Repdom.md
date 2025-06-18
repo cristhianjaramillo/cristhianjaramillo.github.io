@@ -1,5 +1,5 @@
 ---
-title: "<span style='color:#333333'>República Dominicana: reglas débiles, partidos esquivos, escasa articulación social y baja representación descriptiva de las mujeres</span>"
+title: "<span>República Dominicana: reglas débiles, partidos esquivos, escasa articulación social y baja representación descriptiva de las mujeres</span>"
 collection: publications
 permalink: /publication/2022-reglas-mujeres-Republica-Dominicana
 excerpt: ''

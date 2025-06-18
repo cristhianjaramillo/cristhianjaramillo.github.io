@@ -1,5 +1,5 @@
 ---
-title: "<span style='color:#333333'>Electronic voting: advancing at a prudent pace</span>"
+title: "<span>Electronic voting: advancing at a prudent pace</span>"
 date: 2024-08-16
 permalink: /posts/2024/08/peru-electronic-voting/
 toc: true

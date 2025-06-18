@@ -1,5 +1,5 @@
 ---
-title: "<span style='color:#333333'>La participación política y el abstencionismo: breves definiciones en el marco latinoamericano</span>"
+title: "<span>La participación política y el abstencionismo: breves definiciones en el marco latinoamericano</span>"
 collection: publications
 permalink: /publication/2019-participacion-politica
 excerpt: ''

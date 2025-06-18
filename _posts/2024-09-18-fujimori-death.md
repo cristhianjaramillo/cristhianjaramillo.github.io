@@ -1,5 +1,5 @@
 ---
-title: "<span style='color:#333333'>What is behind authoritarian nostalgia?</span>"
+title: "<span>What is behind authoritarian nostalgia?</span>"
 date: 2024-09-18
 permalink: /posts/2024/09/fujimori-death/
 toc: true

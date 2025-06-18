@@ -1,5 +1,5 @@
 ---
-title: "<span style='color:#333333'>How long can Peruvian democracy endure?</span>"
+title: "<span>How long can Peruvian democracy endure?</span>"
 date: 2025-02-25
 permalink: /posts/2025/02/how-long-can-peruvian-democracy-endure/
 toc: true

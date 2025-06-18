@@ -1,5 +1,5 @@
 ---
-title: "<span style='color:#333333'>COVID-19 y las elecciones en América Latina: el impacto de los procesos electorales en el número de casos registrados</span>"
+title: "<span>COVID-19 y las elecciones en América Latina: el impacto de los procesos electorales en el número de casos registrados</span>"
 collection: publications
 permalink: /publication/2024-COVID-elecciones
 excerpt: ''

@@ -1,5 +1,5 @@
 ---
-title: "<span style='color:#333333'>Las cuotas electorales. Un análisis multinivel de los efectos de su aplicación</span>"
+title: "<span>Las cuotas electorales. Un análisis multinivel de los efectos de su aplicación</span>"
 collection: publications
 permalink: /publication/2019-cuotas-electorales
 excerpt: ''

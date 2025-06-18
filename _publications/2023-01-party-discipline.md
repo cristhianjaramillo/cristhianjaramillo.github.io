@@ -1,5 +1,5 @@
 ---
-title: "<span style='color:#333333'>The Impossibility of Party Unity in Peru: Party Affiliation, Subnational Electoral Competition and Party Discipline (2011–2019)</span>"
+title: "<span>The Impossibility of Party Unity in Peru: Party Affiliation, Subnational Electoral Competition and Party Discipline (2011–2019)</span>"
 collection: publications
 permalink: /publication/2023-1-party-unity
 excerpt: ''

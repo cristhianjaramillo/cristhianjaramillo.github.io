@@ -1,5 +1,5 @@
 ---
-title: "<span style='color:#333333'>The Peruvian political parties under examination!</span>"
+title: "<span>The Peruvian political parties under examination!</span>"
 date: 2022-08-22
 permalink: /posts/2022/08/peru-parties/
 toc: true

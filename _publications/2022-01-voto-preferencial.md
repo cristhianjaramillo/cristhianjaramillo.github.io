@@ -1,5 +1,5 @@
 ---
-title: "<span style='color:#333333'>Perú y el voto preferencial: la última aplicación de este sistema</span>"
+title: "<span>Perú y el voto preferencial: la última aplicación de este sistema</span>"
 collection: publications
 permalink: /publication/2022-voto-preferencial
 excerpt: ''

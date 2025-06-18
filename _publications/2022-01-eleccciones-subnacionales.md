@@ -1,5 +1,5 @@
 ---
-title: "<span style='color:#333333'>Perú: Elecciones Regionales y Municipales 2022. La continua prevalencia de los movimientos regionales</span>"
+title: "<span>Perú: Elecciones Regionales y Municipales 2022. La continua prevalencia de los movimientos regionales</span>"
 collection: publications
 permalink: /publication/2022-1-elecciones-regionales-Peru
 excerpt: ''
