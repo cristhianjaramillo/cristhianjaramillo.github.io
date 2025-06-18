@@ -1,5 +1,5 @@
 ---
-title: "<span style='color:#333333'>The symbolic representation of women and the obstacles they face in the Congress of the Republic of Peru (2016-2020)</span>"
+title: "<span>The symbolic representation of women and the obstacles they face in the Congress of the Republic of Peru (2016-2020)</span>"
 collection: talks
 type: "Conference"
 permalink: /talks/2022-05-06-symbolic-representation

@@ -1,5 +1,5 @@
 ---
-title: "<span style='color:#333333'>Elections during the pandemic in Latin America: problems, innovations and lessons learned</span>"
+title: "<span>Elections during the pandemic in Latin America: problems, innovations and lessons learned</span>"
 collection: talks
 type: "Conference"
 permalink: /talks/2022-09-29-conference-elections-covid

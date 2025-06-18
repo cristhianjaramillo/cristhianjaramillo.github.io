@@ -1,5 +1,5 @@
 ---
-title: "<span style='color:#333333'>The impossibility of party unity in Peru: party affiliation, subnational electoral competition and party discipline (2011-2019)</span>"
+title: "<span>The impossibility of party unity in Peru: party affiliation, subnational electoral competition and party discipline (2011-2019)</span>"
 collection: talks
 type: "Conference"
 permalink: /talks/2021-04-14-conference-party-discipline
