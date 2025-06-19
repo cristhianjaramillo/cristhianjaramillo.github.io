@@ -14,7 +14,7 @@ República Dominicana es uno de los países con menor representación descriptiv
 
 [**Download paper here**](https://www.researchgate.net/publication/365806193_Republica_Dominicana_reglas_debiles_partidos_esquivos_escasa_articulacion_social_y_baja_representacion_descriptiva_de_las_mujeres)
 
-**<span style='color:#333333'>Figures & Supplementary Resources:</span>**
+**<span>Figures & Supplementary Resources:</span>**
 
 <img src="/images/reglas_mujeresdom_table1.png"/>
 

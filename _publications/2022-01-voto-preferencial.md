@@ -14,7 +14,7 @@ En las elecciones, las reglas que determinan cómo y a quién se elige importan 
 
 [**Download paper here**](https://www.researchgate.net/publication/371389245_Peru_y_el_voto_preferencial_la_ultima_aplicacion_de_este_sistema)
 
-**<span style='color:#333333'>Figures & Supplementary Resources:</span>**
+**<span>Figures & Supplementary Resources:</span>**
 
 <img src="/images/voto_preferencial_figure1.png"/>
 

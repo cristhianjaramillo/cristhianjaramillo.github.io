@@ -22,7 +22,7 @@ This repository houses my thesis titled "Unravelling Party Discipline in the Glo
 
 The thesis delves into party control's impact on party discipline, examining voting behaviors of Peruvian MPs in significant motions. It includes raw and finalized data, analysis code, and model evaluation to replicate and understand the study's findings regarding party discipline in Peru's political landscape from 2011 to 2019.
 
-**<span style='color:#333333'>Figures & Supplementary Resources:</span>**
+**<span>Figures & Supplementary Resources:</span>**
 
 <img src="/images/density_plot.jpg"/>
 

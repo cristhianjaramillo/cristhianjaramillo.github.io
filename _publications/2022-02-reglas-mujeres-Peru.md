@@ -14,7 +14,7 @@ La representación política de las mujeres en el Perú ha avanzado de manera ra
 
 [**Download paper here**](https://www.researchgate.net/publication/365806183_Peru_reglas_fuertes_sistema_electoral_poco_amigable_y_baja_representacion_descriptiva_de_las_mujeres)
 
-**<span style='color:#333333'>Figures & Supplementary Resources:</span>**
+**<span>Figures & Supplementary Resources:</span>**
 
 <img src="/images/mujeres_reglas_table1.png"/>
 

@@ -14,7 +14,7 @@ Este estudio analiza el impacto de los procesos electorales en América Latina s
 
 [**Download paper here**](https://www.researchgate.net/publication/385661508_COVID-19_y_las_elecciones_en_America_Latina_el_impacto_de_los_procesos_electorales_en_el_numero_de_casos_registrados)
 
-**<span style='color:#333333'>Figures & Supplementary Resources:</span>**
+**<span>Figures & Supplementary Resources:</span>**
 
 <img src="/images/covid_1.png"/>
 

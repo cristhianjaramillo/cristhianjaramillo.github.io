@@ -14,7 +14,7 @@ Party division in Peru is a constant event and has become an expected feature of
 
 [**Download paper here**](https://www.researchgate.net/publication/372884572_The_Impossibility_of_Party_Unity_in_Peru_Party_Affiliation_Subnational_Electoral_Competition_and_Party_Discipline_2011-2019)
 
-**<span style='color:#333333'>Figures & Supplementary Resources:</span>**
+**<span>Figures & Supplementary Resources:</span>**
 
 <img src="/images/party_discipline_figure1.png"/>
 

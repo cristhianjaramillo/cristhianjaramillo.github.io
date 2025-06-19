@@ -14,7 +14,7 @@ Para un correcto estudio del abstencionismo electoral, este exige con-templar t√
 
 [**Download paper here**](https://www.researchgate.net/publication/338235811_La_participacion_politica_y_el_abstencionismo_breves_definiciones_en_el_marco_latinoamericano)
 
-**<span style='color:#333333'>Figures & Supplementary Resources:</span>**
+**<span>Figures & Supplementary Resources:</span>**
 
 <img src="/images/participacion_politica_figure1.png"/>
 

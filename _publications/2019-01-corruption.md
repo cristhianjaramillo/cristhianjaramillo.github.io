@@ -16,7 +16,7 @@ De esta forma, la pregunta que atiende el presente paper es: ¿qué variables ex
 
 [**Download paper here**](https://www.researchgate.net/publication/336393445_Cuando_caen_los_chicos_y_no_los_grandes_la_corrupcion_a_nivel_subnacional_en_los_casos_de_Callao_y_Tumbes)
 
-**<span style='color:#333333'>Figures & Supplementary Resources:</span>**
+**<span>Figures & Supplementary Resources:</span>**
 
 <img src="/images/corruption_figure1.png"/>
 

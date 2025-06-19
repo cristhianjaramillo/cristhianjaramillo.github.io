@@ -22,7 +22,7 @@ Este repositorio alberga mi tesis titulada "Unravelling Party Discipline in the 
 
 La tesis profundiza en el impacto del control partidario sobre la disciplina partidaria, examinando los comportamientos de voto de las y los congresistas peruanos en mociones significativas. Incluye datos en bruto y finalizados, código de análisis y evaluación de modelos para replicar y comprender los hallazgos del estudio sobre la disciplina partidaria en el panorama político de Perú de 2011 a 2019.
 
-**<span style='color:#333333'>Figuras & Recursos Suplementarios:</span>**
+**<span>Figuras & Recursos Suplementarios:</span>**
 
 <img src="/images/density_plot.jpg"/>
 
