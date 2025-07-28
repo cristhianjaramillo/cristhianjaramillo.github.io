@@ -10,7 +10,7 @@
 <ul class="toc__menu">
 {% assign lines = page.content | split: '\n' %}
 {% for line in lines %}
-  {% if line contains '## ' %}
+  {% if line startswith '## ' %}
     {% assign text = line | remove: '## ' | strip %}
     <li><a href="#{{ text | slugify }}">{{ text }}</a></li>
   {% endif %}
