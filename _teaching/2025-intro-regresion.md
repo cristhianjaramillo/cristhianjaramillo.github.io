@@ -6,15 +6,12 @@ permalink: /teaching/modelos-estadisticos
 venue: "Observatorio de Reformas Políticas en América Latina"
 date: 2025-07-27
 location: "London, UK"
+excerpt_separator: <!--more-->
 toc: true
 ---
-# Tabla de contenidos
 
--   [Objectivos del curso](#objetivos-del-curso)
--   [Contenido del repositorio](#contenido-del-repositorio)
--   [Requisitos](#requisitos)
--   [Uso del repositorio](#uso-del-repositorio)
--   [Licencia](#licencia)
+Introducción del curso
+<!--more-->
 
 # Objetivos del curso
 
