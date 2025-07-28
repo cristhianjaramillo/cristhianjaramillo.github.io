@@ -1,0 +1,80 @@
+/* ==========================================================================
+   Table of contents navigation
+   ========================================================================== */
+
+.toc {
+  position: fixed;          /* Make it stay fixed on the side */
+  top: 100px;               /* Space from top (adjust to avoid header overlap) */
+  right: 2rem;              /* Space from the right edge */
+  width: 250px;             /* Fixed width for TOC */
+  max-height: calc(100vh - 120px); /* Allow scrolling if TOC is long */
+  overflow-y: auto;         /* Scroll inside box if content exceeds height */
+  background-color: #fff;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  box-shadow: $box-shadow;
+  font-family: $sans-serif-narrow;
+  color: $gray;
+  letter-spacing: 1px;
+  z-index: 100; /* Ensure it stays above content */
+
+  .nav__title {
+    color: #fff;
+    font-size: $type-size-6;
+    background: $primary-color;
+    border-top-left-radius: $border-radius;
+    border-top-right-radius: $border-radius;
+    padding: 0.5rem 1rem;
+  }
+}
+
+.toc__menu {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: 0.8rem;
+
+  a {
+    display: block;
+    padding: 0.5rem 1rem;
+    color: $gray;
+    font-size: $type-size-7;
+    font-weight: bold;
+    line-height: 1.5;
+    border-bottom: 1px solid $border-color;
+    text-decoration: none;
+
+    &:hover {
+      color: #000;
+      background: $lighter-gray;
+    }
+  }
+
+  /* Nested levels indentation */
+  li ul > li a {
+    padding-left: 1.25rem;
+    font-weight: normal;
+  }
+
+  li ul li ul > li a {
+    padding-left: 1.75rem;
+  }
+
+  li ul li ul li ul > li a {
+    padding-left: 2.25rem;
+  }
+
+  li ul li ul li ul li ul > li a {
+    padding-left: 2.75rem;
+  }
+
+  li ul li ul li ul li ul li ul > li a {
+    padding-left: 3.25rem;
+  }
+}
+
+/* Ensure content does not overlap TOC */
+.page__content {
+  max-width: 700px;     /* Or your preferred width */
+  margin-right: 300px;  /* Leave space for TOC */
+}
