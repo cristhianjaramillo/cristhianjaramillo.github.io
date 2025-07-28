@@ -3,11 +3,11 @@ title: "<span>Introducción a modelos estadísticos</span>"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/modelos-estadisticos
+excerpt_separator: <!--more-->
+toc: true
 venue: "Observatorio de Reformas Políticas en América Latina"
 date: 2025-07-27
 location: "London, UK"
-excerpt_separator: <!--more-->
-toc: true
 ---
 
 Introducción del curso
