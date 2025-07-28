@@ -1,15 +1,14 @@
 <aside class="sidebar__right">
-<nav class="toc">
+<nav class="toc" markdown="1">
 <header>
   <h4 class="nav__title">
     <i class="fa fa-{{ include.icon | default: 'file-text' }}"></i> 
     {{ include.title | default: site.data.ui-text[site.locale].toc_label }}
   </h4>
 </header>
-{% capture tocContent %}
-*  Auto generated table of contents
+
+* TOC
 {:toc .toc__menu}
-{% endcapture %}
-{{ tocContent | markdownify }}
+
 </nav>
 </aside>
