@@ -1,0 +1,20 @@
+/* _sass/toc-custom.scss */
+
+/* Force TOC to fixed sidebar position */
+.sidebar__right .toc {
+  position: fixed;
+  top: 100px;
+  right: 2rem;
+  width: 250px;
+  max-height: calc(100vh - 120px);
+  overflow-y: auto;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+/* Adjust page content so text doesn’t overlap */
+.page__content {
+  margin-right: 300px; /* space for TOC */
+}
