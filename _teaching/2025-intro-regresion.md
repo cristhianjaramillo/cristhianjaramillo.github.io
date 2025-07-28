@@ -21,14 +21,14 @@ Introducción del curso
 -   Familiarizarse con el flujo de trabajo de análisis de datos: importación, limpieza, visualización, modelado e interpretación.
 -   Desarrollar habilidades reproducibles usando RMarkdown y buenas prácticas en Git/GitHub.
 
-## Contenido del repositorio
+# Contenido del repositorio
 
 -   `./scripts/` – Códigos en R de cada sesión (ejemplos y ejercicios).
 -   `./slides/` – Presentación de las sesiones teóricas.
 -   `./other/` – Otros materiales.
 -   README.md – Este documento explicativo.
 
-## Requisitos
+# Requisitos
 
 1. Instalar R y RStudio
    
