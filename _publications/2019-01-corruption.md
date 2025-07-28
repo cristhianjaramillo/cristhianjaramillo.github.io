@@ -1,5 +1,5 @@
 ---
-title: "<span'>Cuando caen los chicos y no los grandes: la corrupción a nivel subnacional en los casos de Callao y Tumbes</span>"
+title: "<span>Cuando caen los chicos y no los grandes: la corrupción a nivel subnacional en los casos de Callao y Tumbes</span>"
 collection: publications
 permalink: /publication/2019-1-corruption
 excerpt: ''
