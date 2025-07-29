@@ -28,12 +28,12 @@ Este curso ofrece una introducción práctica a la regresión lineal aplicada a 
 
 | Scripts            | Descripción   |
 | --------           | ------ |
-| [0_wrangling](https://cristhianjaramillo.github.io/files/0_wrangling.R)     |Script para aprender a orderenar, organizar y editar bases de datos|
+| [0_wrangling](https://cristhianjaramillo.github.io/files/0_wrangling.R)     |Script para aprender a ordenar, organizar y editar bases de datos|
 | [1_regresion](https://cristhianjaramillo.github.io/files/1_regresion.R)    |Script con ejemplos de regresión lineal simple|
 
 -   `./slides/` – Presentación de la sesión teórica.
 
-[![](images/regresion_lineal.jpg)](https://cristhianjaramillo.github.io/files/regresion_lineal.pdf)
+[![](images/regresion_lineal.png)](https://cristhianjaramillo.github.io/files/regresion_lineal.pdf)
 
 -   `./other/` – Otros materiales.
 
@@ -80,7 +80,7 @@ El curso Introducción a modelos estadísticos, impartido en el Observatorio de 
 
 <summary>Chicago style</summary>
 
-``` r
+```
 Jaramillo, Cristhian. 2025. “Introducción a modelos estadísticos.” Curso de pregrado en el Observatorio de Reformas Políticas en América Latina, London, UK, 27 de julio. https://cristhianjaramillo.github.io/teaching/modelos-estadisticos
 ```
 
@@ -92,7 +92,7 @@ Jaramillo, Cristhian. 2025. “Introducción a modelos estadísticos.” Curso d
 
 <summary>APA 7ma edición</summary>
 
-``` git
+```
 Jaramillo, C. (2025, julio). Introducción a modelos estadísticos [Curso de pregrado]. Observatorio de Reformas Políticas en América Latina. London, UK. Disponible en https://cristhianjaramillo.github.io/teaching/modelos-estadisticos
 ```
 
@@ -104,7 +104,7 @@ Jaramillo, C. (2025, julio). Introducción a modelos estadísticos [Curso de pre
 
 <summary>Harvard</summary>
 
-``` git
+```
 Jaramillo, C., 2025. Introducción a modelos estadísticos. Observatorio de Reformas Políticas en América Latina, London, UK. Disponible en: https://cristhianjaramillo.github.io/teaching/modelos-estadisticos [Accedido 29 julio 2025].
 ```
 
@@ -116,7 +116,7 @@ Jaramillo, C., 2025. Introducción a modelos estadísticos. Observatorio de Refo
 
 <summary>IEEE Style</summary>
 
-``` r
+```
 C. Jaramillo, "Introducción a modelos estadísticos," Observatorio de Reformas Políticas en América Latina, London, UK, Jul. 2025. [En línea]. Disponible en: https://cristhianjaramillo.github.io/teaching/modelos-estadisticos
 ```
 
