@@ -33,7 +33,7 @@ Este curso ofrece una introducción práctica a la regresión lineal aplicada a 
 
 -   `./slides/` – Presentación de la sesión teórica.
 
-[](images/regresion_lineal.jpg)](https://cristhianjaramillo.github.io/files/regresion_lineal.pdf)
+[![](images/regresion_lineal.jpg)](https://cristhianjaramillo.github.io/files/regresion_lineal.pdf)
 
 -   `./other/` – Otros materiales.
 
@@ -86,6 +86,7 @@ Jaramillo, Cristhian. 2025. “Introducción a modelos estadísticos.” Curso d
 
 </details>
 
+---
 
 <details>
 
@@ -97,6 +98,7 @@ Jaramillo, C. (2025, julio). Introducción a modelos estadísticos [Curso de pre
 
 </details>
 
+---
 
 <details>
 
@@ -108,6 +110,7 @@ Jaramillo, C., 2025. Introducción a modelos estadísticos. Observatorio de Refo
 
 </details>
 
+---
 
 <details>
 
