@@ -132,23 +132,22 @@ function copyCitation(id) {
 </script>
 
 <style>
-.code-block {
-  position: relative;
+.code-wrapper {
+  margin-bottom: 5px;
 }
 .copy-btn {
-  position: absolute;
-  top: 5px;
-  right: 5px;
-  background: #007acc;
-  color: white;
-  border: none;
-  padding: 3px 6px;
+  background: white;
+  color: #555;
+  border: 1px solid #ccc;
+  padding: 3px 8px;
   border-radius: 3px;
   cursor: pointer;
   font-size: 0.8rem;
+  float: right; /* moves it outside/right */
+  margin-top: -5px; /* adjust vertical alignment */
+  margin-bottom: 10px;
 }
 .copy-btn:hover {
-  background: #005fa3;
+  background: #f0f0f0;
 }
 </style>
-
