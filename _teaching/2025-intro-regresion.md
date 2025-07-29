@@ -39,7 +39,7 @@ Este curso ofrece una introducción práctica a la regresión lineal aplicada a 
 
 | Libros y otros recursos            | Descripción   |
 | --------           | ------ |
-| [Introduction to Data Science](https://cristhianjaramillo.github.io/files/Data Science Book.pdf)     |Libro de introducción a R y métodos estadísticos básicos|
+| [Introduction to Data Science](https://rafalab.dfci.harvard.edu/dsbook)     |Libro de introducción a R y métodos estadísticos básicos|
 | [Estadística para las Ciencias Sociales](https://cristhianjaramillo.github.io/files/Texto R Sulmont_2015.pdf)    |Libro que abarca estadística descriptiva e inferencial|
 
 ## Requisitos
