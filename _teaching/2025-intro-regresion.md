@@ -79,42 +79,76 @@ El curso Introducción a modelos estadísticos, impartido en el Observatorio de 
 <details>
 <summary>Chicago style</summary>
 
-<pre><code class="language-r">Jaramillo, Cristhian. 2025. “Introducción a modelos estadísticos.” Curso de pregrado en el Observatorio de Reformas Políticas en América Latina, London, UK, 27 de julio. https://cristhianjaramillo.github.io/teaching/modelos-estadisticos</code></pre>
+<div class="code-block">
+  <pre><code id="cite-chicago">Jaramillo, Cristhian. 2025. “Introducción a modelos estadísticos.” Curso de pregrado en el Observatorio de Reformas Políticas en América Latina, London, UK, 27 de julio. https://cristhianjaramillo.github.io/teaching/modelos-estadisticos</code></pre>
+  <button class="copy-btn" onclick="copyCitation('cite-chicago')">Copy</button>
+</div>
 
 </details>
 
 ---
 
 <details>
-
 <summary>APA 7ma edición</summary>
 
-```
-Jaramillo, C. (2025, julio). Introducción a modelos estadísticos [Curso de pregrado]. Observatorio de Reformas Políticas en América Latina. London, UK. Disponible en https://cristhianjaramillo.github.io/teaching/modelos-estadisticos
-```
+<div class="code-block">
+  <pre><code id="cite-apa">Jaramillo, C. (2025, julio). Introducción a modelos estadísticos [Curso de pregrado]. Observatorio de Reformas Políticas en América Latina. London, UK. Disponible en https://cristhianjaramillo.github.io/teaching/modelos-estadisticos</code></pre>
+  <button class="copy-btn" onclick="copyCitation('cite-apa')">Copy</button>
+</div>
 
 </details>
 
 ---
 
 <details>
-
 <summary>Harvard</summary>
 
-```
-Jaramillo, C., 2025. Introducción a modelos estadísticos. Observatorio de Reformas Políticas en América Latina, London, UK. Disponible en: https://cristhianjaramillo.github.io/teaching/modelos-estadisticos [Accedido 29 julio 2025].
-```
+<div class="code-block">
+  <pre><code id="cite-harvard">Jaramillo, C., 2025. Introducción a modelos estadísticos. Observatorio de Reformas Políticas en América Latina, London, UK. Disponible en: https://cristhianjaramillo.github.io/teaching/modelos-estadisticos [Accedido 29 julio 2025].</code></pre>
+  <button class="copy-btn" onclick="copyCitation('cite-harvard')">Copy</button>
+</div>
 
 </details>
 
 ---
 
 <details>
-
 <summary>IEEE Style</summary>
 
-```
-C. Jaramillo, "Introducción a modelos estadísticos," Observatorio de Reformas Políticas en América Latina, London, UK, Jul. 2025. [En línea]. Disponible en: https://cristhianjaramillo.github.io/teaching/modelos-estadisticos
-```
+<div class="code-block">
+  <pre><code id="cite-ieee">C. Jaramillo, "Introducción a modelos estadísticos," Observatorio de Reformas Políticas en América Latina, London, UK, Jul. 2025. [En línea]. Disponible en: https://cristhianjaramillo.github.io/teaching/modelos-estadisticos</code></pre>
+  <button class="copy-btn" onclick="copyCitation('cite-ieee')">Copy</button>
+</div>
 
 </details>
+
+<script>
+function copyCitation(id) {
+  const text = document.getElementById(id).innerText;
+  navigator.clipboard.writeText(text).then(() => {
+    alert("Citation copied!");
+  });
+}
+</script>
+
+<style>
+.code-block {
+  position: relative;
+}
+.copy-btn {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  background: #007acc;
+  color: white;
+  border: none;
+  padding: 3px 6px;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: 0.8rem;
+}
+.copy-btn:hover {
+  background: #005fa3;
+}
+</style>
+
