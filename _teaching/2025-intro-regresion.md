@@ -77,12 +77,9 @@ El contenido de este curso se comparte bajo licencia Creative Commons BY-NC-SA 4
 El curso Introducción a modelos estadísticos, impartido en el Observatorio de Reformas Políticas en América Latina en 2025, puede citarse correctamente siguiendo los formatos mostrados a continuación. Para mayor comodidad, en este repositorio se incluye un archivo [.ris](https://cristhianjaramillo.github.io/files/modelos_estadisticos_jaramillo.ris) que facilita su incorporación en gestores de referencias bibliográficas. Selecciona el estilo de cita que mejor se ajuste a tus necesidades.
 
 <details>
-
 <summary>Chicago style</summary>
 
-```
-Jaramillo, Cristhian. 2025. “Introducción a modelos estadísticos.” Curso de pregrado en el Observatorio de Reformas Políticas en América Latina, London, UK, 27 de julio. https://cristhianjaramillo.github.io/teaching/modelos-estadisticos
-```
+<pre><code class="language-r">Jaramillo, Cristhian. 2025. “Introducción a modelos estadísticos.” Curso de pregrado en el Observatorio de Reformas Políticas en América Latina, London, UK, 27 de julio. https://cristhianjaramillo.github.io/teaching/modelos-estadisticos</code></pre>
 
 </details>
 
