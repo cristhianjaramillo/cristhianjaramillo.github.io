@@ -62,7 +62,7 @@ install.packages(c(
 
 1. También puedes clonar el repositorio:
 
-```
+```r
 git clone https://github.com/cristhianjaramillo/curso-investigacion.git
 ```
 
