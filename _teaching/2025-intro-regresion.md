@@ -62,9 +62,9 @@ install.packages(c(
 
 1. También puedes clonar el repositorio:
 
-```r
-git clone https://github.com/cristhianjaramillo/curso-investigacion.git
-```
+   ```bash
+   git clone https://github.com/cristhianjaramillo/curso-investigacion.git
+  ```
 
 2. Sigue el orden de los scripts para reproducir los ejemplos vistos en clase.
 
