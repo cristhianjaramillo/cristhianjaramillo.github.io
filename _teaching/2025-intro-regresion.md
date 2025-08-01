@@ -53,7 +53,7 @@ Este curso ofrece una introducción práctica a la regresión lineal aplicada a 
    
 ```
 install.packages(c(
-  "tidyverse", "rio", "stargazer", "car", "lmtest",
+  "tidyverse", "rio", "car", "lmtest",
   "palmerpenguins", "gapminder", "DescTools"
 ))
 ```
