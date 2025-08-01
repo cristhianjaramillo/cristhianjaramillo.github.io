@@ -46,8 +46,8 @@ Este curso ofrece una introducción práctica a la regresión lineal aplicada a 
 
 1. Instalar R y RStudio
    
--   R: (https://cran.r-project.org/)[https://cran.r-project.org/]
--   RStudio: (https://posit.co/download/rstudio-desktop/)[https://posit.co/download/rstudio-desktop/]
+-   R: [https://cran.r-project.org/](https://cran.r-project.org/)
+-   RStudio: [https://posit.co/download/rstudio-desktop/](https://posit.co/download/rstudio-desktop/)
 
 2. Instalar los paquetes necesarios (desde R):
    
