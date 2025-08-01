@@ -44,29 +44,29 @@ Este curso ofrece una introducción práctica a la regresión lineal aplicada a 
 
 ## Requisitos
 
-  1. Instalar R y RStudio
+1. Instalar R y RStudio
    
 -   R: [https://cran.r-project.org/](https://cran.r-project.org/)
 -   RStudio: [https://posit.co/download/rstudio-desktop/](https://posit.co/download/rstudio-desktop/)
 
-  2. Instalar los paquetes necesarios (desde R):
+2. Instalar los paquetes necesarios (desde R):
    
 ```
 install.packages(c(
-  "tidyverse", "rio", "car", "lmtest",
+  "tidyverse", "rio", "stargazer", "car", "lmtest",
   "palmerpenguins", "gapminder", "DescTools"
 ))
 ```
 
 ## Uso del repositorio
 
-  1. También puedes clonar el repositorio:
+1. También puedes clonar el repositorio:
    
 ```
 git clone https://github.com/cristhianjaramillo/curso-investigacion.git
 ```
 
-  2. Sigue el orden de los scripts para reproducir los ejemplos vistos en clase.
+2. Sigue el orden de los scripts para reproducir los ejemplos vistos en clase.
 
 ## Licencia
 
