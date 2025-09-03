@@ -1,37 +1,20 @@
 ---
-title: "<span>The Impossibility of Party Unity in Peru: Party Affiliation, Subnational Electoral Competition and Party Discipline (2011–2019)</span>"
+title: "<span>Synthetic Control Methods</span>"
 collection: publications
-permalink: /publication/2023-1-party-unity
+permalink: /publication/2025-1-synthetic-control-methods
 excerpt: ''
-date: 2023-10-01
-venue: 'Bulletin of Latin American Research'
-paperurl: 'https://doi.org/10.1111/blar.13505'
-citation: 'Jaramillo, Cristhian. (2023). &quot;The Impossibility of Party Unity in Peru: Party Affiliation, Subnational Electoral Competition and Party Discipline (2011–2019).&quot; <i>Bulletin of Latin American Research</i>. 42(5): 649-662.'
+date: 2025-09-01
+venue: 'Global Observatory of Long Term Care'
+paperurl: 'https://goltc.org/publications/synthetic-control-methods/'
+citation: 'Jaramillo-Huaman, C. and Cartagena-Farias, J. (2025) Synthetic Control Methods. GOLTC Methods Guide series, 5. Global Observatory of Long-Term Care, Care Policy and Evaluation Centre, London School of Economics and Political Science. https://goltc.org/publications/synthetic-control-methods/'
 type: article
 ---
 
-Party division in Peru is a constant event and has become an expected feature of Peruvian parliamentary politics. For instance, in 2016, the elected Congress was composed of six parliamentary groups, and at the moment of its dissolution, that number doubled. This article explores the factors that produce such rapid division in the Peruvian Congress during two parliamentary periods (2011--2016, 2016--2019). It argues, through quantitative analysis, that there is a direct and negative relationship between the fragmentation of parliamentary groups and party discipline due to party affiliation and the dynamics of subnational party competition.
+Synthetic Control Methods are a quasi-experimental method used to estimate the impact of a policy or intervention (both terms are used interchangeably in this text). The method compares the outcomes of the unit exposed to the intervention with those of a group of units that were not affected by it, also known as the donor pool. The main goal is to estimate a counterfactual – i.e., what would have happened to the treated unit if the intervention had not taken place (Abadie, 2021). These methods are particularly useful to evaluate policy interventions implemented at a national level (e.g., one country adopting a specific type of care model).
 
-[**Download paper here**](https://www.researchgate.net/publication/372884572_The_Impossibility_of_Party_Unity_in_Peru_Party_Affiliation_Subnational_Electoral_Competition_and_Party_Discipline_2011-2019)
+Rather than selecting just one comparison unit, synthetic control methods create a weighted combination of units from the donor pool. This weighted combination forms a “synthetic” version of the treated unit that closely matches its pre-intervention characteristics and trends. By comparing the actual post-intervention outcomes of the treated unit to the outcomes of this synthetic control, we can estimate the causal effect of the intervention. The difference between the two outcomes reflects the estimated impact of the policy or intervention and helps assess how effective it was.
 
-**<span>Figures & Supplementary Resources:</span>**
+One of the key strengths of synthetic control approaches is its transparency: researchers can see exactly which donor units contribute to the synthetic control and how much weight each one receives. This makes the method particularly useful for cases where randomised experiments are not feasible, and where a credible comparison group needs to be built from observational data (Abadie et al., 2011). In addition, there is no need for the ‘parallel trends assumption’ from the Difference-in-Differences approach to hold (Clarke et al., 2023), providing researchers with more flexibility for analysis. Unsurprisingly, Athey and Imbens (2017) described Synthetic Controls as “arguably the most important innovation in the policy evaluation literature in the last 15 years”. Despite its potential, this method has been underused, especially compared to other quasi-experimental designs (Bouttell et al., 2018).
 
-<img src="/images/party_discipline_figure1.png"/>
+[**Download paper here**](https://goltc.org/publications/synthetic-control-methods/)
 
-<img src="/images/party_discipline_table1.png"/>
-
-<img src="/images/party_discipline_table2.png"/>
-
-<img src="/images/party_discipline_table3.png"/>
-
-<img src="/images/party_discipline_table4.png"/>
-
-<img src="/images/party_discipline_table5.png"/>
-
-<img src="/images/party_discipline_table6.png"/>
-
-<img src="/images/party_discipline_table7.png"/>
-
-<img src="/images/party_discipline_table8.png"/>
-
-<img src="/images/party_discipline_table9.png"/>
