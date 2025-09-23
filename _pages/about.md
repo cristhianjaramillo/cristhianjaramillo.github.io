@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-👋 I am a graduate of the London School of Economics and Political Science, in Social Research Methods. My background includes a Bachelor of Social Science in Political Science and Government from the Pontifical Catholic University of Peru.
+👋 I have a Master’s in Social Research Methods from the London School of Economics and Political Science, and a Bachelor’s in Political Science and Government from the Pontifical Catholic University of Peru.
 
 <div style="float: right; margin: 0px 10px 0px 10px;">
     <img src="images/ivan_theterrible.jpg" width="335" height="240">
