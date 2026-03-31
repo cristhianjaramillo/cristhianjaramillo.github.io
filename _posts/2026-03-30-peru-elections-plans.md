@@ -23,7 +23,7 @@ This text was originally published in Spanish in the Peruvian newspaper 'Ojo Pú
 <br>
 
 In a fragmented electoral scenario marked by distrust, the language and emotions embedded in government plans become as decisive as their proposals, beyond subjective interpretations or political affinities. Based on this premise, political scientist Cristhian Jaramillo conducts a textual analysis of the government plans of Renovación Popular, Fuerza Popular, Ahora Nación, Integridad Democrática, and País para Todos, identifying overlaps, nuances, and discursive strategies. The author argues that, given programmatic weakness, political competition shifts to the narrative arena, where tone and form of communication can influence voting decisions.
-<hr style="border-color:#000000; margin-top: 5px; margin-bottom: 5px">
+<hr style="border: 2px solid grey; padding: 10px; margin-top: -5px; margin-bottom: 0px">
 
 To claim that Peru’s 2026 general elections will take place in an exceptionally complex context is almost self-evident. After a decade marked by political instability—presidents failing to complete their terms, ongoing conflicts between the Executive and Legislative branches, and a sustained erosion of public trust in politics—this electoral process takes on a decisive character.
 
