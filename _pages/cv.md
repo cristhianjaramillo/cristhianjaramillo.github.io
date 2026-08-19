@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="border: 2px solid grey; padding: 10px;">
-For a comprehensive version of my academic and professional background, you can access and download my full Curriculum Vitae <a href="https://cristhianjaramillo.github.io/files/CV_Cristhian%20Jaramillo.pdf"><strong>here</strong></a>.
+A concise version of my academic and professional background is available to download as a <a href="https://cristhianjaramillo.github.io/files/CV_Cristhian%20Jaramillo.pdf"><strong>PDF</strong></a>.
 </div>
 
 ## Professional Profile
@@ -307,5 +307,5 @@ Latin American Association of Political Science.
 <hr style="border-color:#000000; margin-top:5px; margin-bottom:5px">
 
 **Spanish:** Native  
-**English:** Fluent
+**English:** Fluent  
 **French:** Intermediate
