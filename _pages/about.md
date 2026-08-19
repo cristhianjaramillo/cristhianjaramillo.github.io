@@ -20,7 +20,6 @@ redirect_from:
 
 ✨ Outside research, I have a longstanding interest in art, particularly painting. I occasionally curate works that catch my attention on my [Art Blog](https://artchronicles.tumblr.com/).
 
-<br>
 <div style="text-align: left; margin: 0; padding: 0;">
   <!-- Top Border Line -->
   <div style="border-top: 2px solid #333333; margin: 0; padding: 0;"></div>
