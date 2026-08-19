@@ -51,8 +51,6 @@ My work spans UK health and social care, public policy, electoral behaviour, ins
 
 **Selected research and analytical work:** longitudinal analysis of health and social care trajectories; local-authority data integration and comparative analysis; variation in social care provision and outcomes; automated and reproducible analytics in R; and methodological work on causal inference.
 
-<br>
-
 <div style="display:flex; justify-content:space-between; align-items:baseline;">
 <strong>Research Assistant</strong>
 <strong>Aug 2023 – Dec 2024</strong>
@@ -63,8 +61,6 @@ My work spans UK health and social care, public policy, electoral behaviour, ins
 - Conducted an extensive literature review on the application and governance of artificial intelligence in public policy, reviewing more than 50 academic papers, policy reports and other sources.
 - Developed a structured database of 40 cases documenting the use of artificial intelligence by public authorities using governmental reports, news sources and other documentary evidence.
 - Synthesised evidence on applications, risks and governance issues associated with the use of AI across public-sector settings.
-
-<br>
 
 <div style="display:flex; justify-content:space-between; align-items:baseline;">
 <strong>Researcher</strong>
@@ -77,8 +73,6 @@ My work spans UK health and social care, public policy, electoral behaviour, ins
 - Develop research designs and contribute to comparative research on electoral institutions and political reform in Latin America.
 - Contributed to the electronic publication of the Blog #ObservatorioReformas in collaboration with *Voz y Voto*.
 
-<br>
-
 <div style="display:flex; justify-content:space-between; align-items:baseline;">
 <strong>Technical Secretary</strong>
 <strong>May 2022 – Jun 2022</strong>
@@ -90,8 +84,6 @@ My work spans UK health and social care, public policy, electoral behaviour, ins
 - Coordinated a team of twelve electoral specialists and information collection across operational stakeholders.
 - Conducted field visits and evaluated the performance of polling locations during the Participatory Budget Consultation.
 - Produced a comprehensive technical report containing findings and recommendations for improving electoral procedures and presented results to relevant stakeholders.
-
-<br>
 
 <div style="display:flex; justify-content:space-between; align-items:baseline;">
 <strong>Researcher</strong>
@@ -107,8 +99,6 @@ My work spans UK health and social care, public policy, electoral behaviour, ins
 - Produced research reports, statistical analyses, data visualisations and policy-relevant evidence for senior decision-makers and external audiences.
 - Organised and participated in panels, seminars and other events to communicate research findings and promote discussion of electoral research.
 
-<br>
-
 <div style="display:flex; justify-content:space-between; align-items:baseline;">
 <strong>Member of the Technical Secretariat</strong>
 <strong>Jan 2019 – Mar 2019</strong>
@@ -121,8 +111,6 @@ My work spans UK health and social care, public policy, electoral behaviour, ins
 - Coordinated meetings and evidence gathering with specialists, government institutions, civil-society organisations and other stakeholders.
 - Co-authored technical documents containing proposals for electoral and political reform.
 
-<br>
-
 <div style="display:flex; justify-content:space-between; align-items:baseline;">
 <strong>Junior Political Analyst</strong>
 <strong>Apr 2018 – Dec 2018</strong>
@@ -133,8 +121,6 @@ My work spans UK health and social care, public policy, electoral behaviour, ins
 - Led a four-person team responsible for updating, maintaining and producing analytical content for INFOgob, the Observatory for Governance.
 - Developed research proposals in electoral studies using quantitative and qualitative approaches.
 - Contributed to analytical reports on electoral politics using administrative and other quantitative and qualitative evidence.
-
-<br>
 
 <div style="display:flex; justify-content:space-between; align-items:baseline;">
 <strong>Research Assistant</strong>
@@ -182,11 +168,8 @@ My work spans UK health and social care, public policy, electoral behaviour, ins
 <strong>MSc Social Research Methods</strong>
 <strong>2022 – 2023</strong>
 </div>
-
 *London School of Economics and Political Science, Department of Methodology — United Kingdom*
-
 Dissertation (Distinction): *Unravelling Party Discipline in the Global South: A Case Study of Peru Using Beta Regression Analysis.*
-
 Advanced training in quantitative and qualitative research methods, statistical modelling, causal inference, research design and applied data analysis.
 
 <br>
@@ -195,18 +178,14 @@ Advanced training in quantitative and qualitative research methods, statistical 
 <strong>Bachelor of Social Science in Political Science and Government</strong>
 <strong>2012 – 2017</strong>
 </div>
-
 *Pontifical Catholic University of Peru, Faculty of Social Sciences — Peru*
-
 Dissertation (Distinction): *Catching the Big Fish: Subnational Corruption in the Cases of Callao and Tumbes.*
-
 <br>
 
 <div style="display:flex; justify-content:space-between; align-items:baseline;">
 <strong>Academic Exchange</strong>
 <strong>2017</strong>
 </div>
-
 *University of Hradec Králové, Faculty of Philosophy and Social Sciences — Czech Republic*
 
 ## Selected Publications
