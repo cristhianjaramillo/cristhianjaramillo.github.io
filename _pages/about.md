@@ -9,19 +9,21 @@ redirect_from:
 ---
 
 
-👋 I have a Master’s in Social Research Methods from the London School of Economics and Political Science, and a Bachelor’s in Political Science and Government from the Pontifical Catholic University of Peru.
+👋 I am a quantitative researcher working at the intersection of **public policy, social research and data analysis**. I hold an MSc in Social Research Methods from the London School of Economics and Political Science and a Bachelor's degree in Political Science and Government from the Pontifical Catholic University of Peru.
 
-<div style="float: right; margin: 0px 10px 0px 10px;">
-    <img src="images/ivan_theterrible.jpg" width="335" height="240">
-    <p style="font-size: 11px; text-align: right;">Painting of the week: Ivan the Terrible and His Son Ivan (1883-85)</p>
-</div>
-🔍 Currently, I am a Research Assistant at the Care Policy and Evaluation Centre, LSE, and Researcher at the [Observatorio de Reformas Políticas en América Latina](https://www.reformaspolíticas.org). My research focuses on political reforms, public policy, and governance. 
+<div style="float: right; margin: 0px 10px 10px 20px;"> <img src="images/ivan_theterrible.jpg" width="335" height="240"> <p style="font-size: 11px; text-align: right;">Painting of the week: <em>Ivan the Terrible and His Son Ivan</em> (1883–85)</p> </div>
 
-📚 I have also been involved directing academic journals in Latin America such as [Elecciones](https://revistas.onpe.gob.pe/index.php/elecciones) and [Politai](https://revistas.pucp.edu.pe/index.php/politai), contributing to their visibility in academic circles.
+I am currently a **Research Assistant at the Care Policy and Evaluation Centre (LSE)** and a Researcher at the [Observatorio de Reformas Políticas en América Latina](https://www.reformaspolíticas.org). My work combines quantitative methods, administrative and survey data, and policy analysis to study public services, political institutions and governance.
 
-📊 My interests extend to quantitative studies, coding, data visualization using R, and my teaching experience encompasses Statistics for Political Analysis at the Pontifical Catholic University of Peru and other institutions.
+📊 A major part of my work involves **statistical analysis, data integration and reproducible research**, primarily using R, alongside SQL, Stata, Python and data visualisation tools. I am particularly interested in using quantitative methods to understand variation across populations, institutions and geographical areas, and in translating complex evidence into useful insights for policy and research.
 
-✨ Beyond my academic work, I hold a profound fascination for art, particularly paintings stemming from the Impressionist movement. I frequently curate and share artworks that catch my attention on my [Art Blog](https://artchronicles.tumblr.com/).
+🏛️ My research experience spans **health and social care, political reform, electoral behaviour, public-sector governance and the use of artificial intelligence in public policy**. I have worked across academic and governmental institutions in the UK and Latin America and have contributed to research publications, policy reports and methodological outputs.
+
+📚 I have also been involved in academic publishing, including serving as Editor-in-Chief of [Elecciones](https://revistas.onpe.gob.pe/index.php/elecciones) and [Politai](https://revistas.pucp.edu.pe/index.php/politai), where I worked on editorial coordination, publication processes and journal visibility.
+
+🎓 Alongside research, I have experience teaching quantitative methods, including Statistics for Political Analysis at the Pontifical Catholic University of Peru and other institutions.
+
+✨ Outside research, I am particularly interested in art and painting, especially Impressionism and nineteenth-century European art. I occasionally curate and share works that catch my attention on my [Art Blog](https://artchronicles.tumblr.com/).
 <br>
 <div style="text-align: left; margin: 0; padding: 0;">
   <!-- Top Border Line -->
