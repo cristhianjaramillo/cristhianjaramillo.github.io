@@ -148,8 +148,6 @@ My work spans UK health and social care, public policy, electoral behaviour, ins
 - Managed the journal website and its day-to-day digital content.
 - Contributed to the inclusion of *Elecciones* in 18 academic databases and indexing platforms, increasing the journal's visibility.
 
-<br>
-
 <div style="display:flex; justify-content:space-between; align-items:baseline;">
 <strong>Editor-in-Chief, <em>Politai: Revista de Ciencia Política</em></strong>
 <strong>Jan 2015 – Dec 2015</strong>
@@ -172,15 +170,12 @@ My work spans UK health and social care, public policy, electoral behaviour, ins
 Dissertation (Distinction): *Unravelling Party Discipline in the Global South: A Case Study of Peru Using Beta Regression Analysis.*
 Advanced training in quantitative and qualitative research methods, statistical modelling, causal inference, research design and applied data analysis.
 
-<br>
-
 <div style="display:flex; justify-content:space-between; align-items:baseline;">
 <strong>Bachelor of Social Science in Political Science and Government</strong>
 <strong>2012 – 2017</strong>
 </div>
 *Pontifical Catholic University of Peru, Faculty of Social Sciences — Peru*
 Dissertation (Distinction): *Catching the Big Fish: Subnational Corruption in the Cases of Callao and Tumbes.*
-<br>
 
 <div style="display:flex; justify-content:space-between; align-items:baseline;">
 <strong>Academic Exchange</strong>
