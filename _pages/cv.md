@@ -7,197 +7,509 @@ redirect_from:
   - /resume
 ---
 
-<div style="border: 2px solid grey; padding: 10px;">
-For a comprehensive view of my academic and professional background, you can access and download my full Curriculum Vitae <a href="https://cristhianjaramillo.github.io/files/CV_Cristhian%20Jaramillo.pdf"><strong>here</strong></a>. Feel free to explore my qualifications, research experience, and publications.
-</div>
-## <span>Professional Profile</span>
-<hr style="border-color:#000000; margin-top: 5px; margin-bottom: 5px">
+\documentclass{article}
 
-MSc Social Research Methods at the London School of Economics and Political Science. Bachelor of Social Science in Political Science and Government for the Pontifical Catholic University of Peru. Research Assistant at the London School of Economics and Political Science. Researcher for the Observatorio de Reformas Políticas en América Latina. Ex-editor-in-chief of the academic journals “Politai” and “Elecciones”. Proven track record in quantitative research, data science, web scraping, and data visualisation in Excel, R and SPSS.
+\usepackage[a4paper,margin=1.6cm]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{titlesec}
+\usepackage{parskip}
 
-## <span>Education & Qualifications</span>
-<hr style="border-color:#000000; margin-top: 5px; margin-bottom: 5px">
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{3pt}
 
-**09/2022 -- 09/2023**       **MSc Social Research Methods**\
-             Department of Methodology\
-             The London School of Economics and Political Science\
-             England\
-             Dissertation (distinction): *'Unravelling Party Discipline in the Global South:* 
-             *A Case Study of Peru Using Beta Regression Analysis'* 
+\titleformat{\section}
+  {\bfseries\large}
+  {}
+  {0em}
+  {}
+  [\vspace{-3pt}\hrule]
 
-**03/2012 -- 12/2017**       **Bachelor of Social Science in Political Science and Government**\
-             Department of Social Science\
-             Pontifical Catholic University of Peru\
-             Peru\
-             Dissertation (distinction): *'Catching the Big Fish: Subnational Corruption in the Cases of* 
-             *Callao and Tumbes'*
+\titlespacing*{\section}{0pt}{9pt}{5pt}
 
-**01/2017 -- 07/2017**       **Academic exchange**\
-             Department of Philosophy and Social Sciences\
-             University Hradec Kralove\
-             Czech Republic
+\setlist[itemize]{
+    leftmargin=1.3em,
+    itemsep=2pt,
+    topsep=2pt,
+    parsep=0pt
+}
 
-**03/2012 - 12/2012**        **International Baccalaureate Diploma Programme**\
-             High-Performance School of Peru\
-             Peru
+\newcommand{\role}[4]{
+    \textbf{#1} \hfill #2\\
+    \textit{#3} \hfill \textit{#4}
+}
 
-## <span>Certificates & Courses</span>
-<hr style="border-color:#000000; margin-top: 5px; margin-bottom: 5px">
+\begin{document}
 
-**08/2023**            **Large Language Models**\
-             Workshop\
-             University of Oxford -- Nuffield College
+% =========================================================
+% HEADER
+% =========================================================
 
-**07/2023**            **Data Visualisation and Bayesian Modelling**\
-             Summer School in Research Methods and Techniques\
-             European Consortium for Political Research\
-             Online courses
+\begin{center}
+    {\LARGE\textbf{Cristhian Jaramillo}}\\[4pt]
+    Quantitative Researcher \;|\; Data Analyst \;|\; Social \& Policy Research\\[4pt]
+    London, United Kingdom \;|\;
+    \href{https://www.cristhianjaramillo.com}{cristhianjaramillo.com}
+    % Add email and LinkedIn if desired
+\end{center}
 
-**08/2021 -- 12/2021**       **Certificate in Elections, Political Representation, and Electoral Governance**\
-             National Autonomous University of Mexico\
-             Specialisation Course\
-             México
+% =========================================================
+\section*{Professional Profile}
 
-**04/2018 -- 08/2018**       **Data Science**\
-             Harvard University\
-             Online courses
+Quantitative researcher and data analyst with over five years of experience
+designing and delivering research and analysing complex administrative,
+survey, behavioural and longitudinal datasets across academia, government
+and public-sector institutions. Experienced in statistical modelling,
+longitudinal analysis, causal inference, data integration, policy evaluation
+and mixed-methods research. Advanced user of R with experience in SQL,
+Python, Stata, Excel, Tableau and Power BI, and in developing reproducible
+analytical workflows for data processing, validation, analysis,
+visualisation and reporting.
 
-**06/2015 -- 07/2015**       **Introductory course in R and QCA**\
-             Latin American Association of Political Science\
-             Perú
+My work spans UK health and social care, public policy, electoral behaviour,
+institutional reform and the use of artificial intelligence in government.
+I have experience managing research across the project lifecycle, working
+with sensitive data and information-governance requirements, coordinating
+multidisciplinary and stakeholder-facing activities, and translating complex
+analytical findings into evidence for researchers, policymakers and
+non-technical audiences.
 
-## <span>Languages</span>
-<hr style="border-color:#000000; margin-top: 5px; margin-bottom: 5px">
+% =========================================================
+\section*{Research, Data \& Technical Expertise}
 
-Spanish: native language.
+\textbf{Quantitative Methods:}
+Statistical modelling, regression analysis, longitudinal analysis,
+causal inference, predictive analytics, hypothesis testing, survey analysis,
+administrative data analysis, comparative analysis, Bayesian modelling,
+trend analysis.
 
-English: IELTS 8.0.
+\textbf{Data Analysis \& Programming:}
+R, SQL, Python, Stata, Excel, Git, Tableau, Power BI, data cleaning,
+data transformation, data integration, data validation, exploratory data
+analysis, data visualisation, reproducible analytical workflows,
+automated reporting.
 
-French: intermediate.
+\textbf{Research \& Policy:}
+Quantitative research, mixed-methods research, policy evaluation,
+research design, evidence synthesis, literature reviews, behavioural
+research, health and social care research, public policy analysis,
+research ethics and data governance.
 
-## <span>Career Summary</span>
-<hr style="border-color:#000000; margin-top: 5px; margin-bottom: 5px">
+\textbf{Research Delivery \& Communication:}
+Research project delivery, analytical design, reporting, publication and
+dissemination, stakeholder engagement, multidisciplinary collaboration,
+technical reporting and communication with technical and non-technical
+audiences.
 
-**02/2023 -- Present**       **Research Assistant**\
-              Care Policy and Evaluation Centre\
-              The London School of Economics and Political Science\
-              United Kingdom
+% =========================================================
+\section*{Professional Experience}
 
--   Developed data analysis using APIs and created 32 comprehensive reports regarding the UK care policy.
--   Implemented R for data visualisation, resulting in the creation of 32 reports in HTML.
--   Developed comprehensive databases to compile and analyse socioeconomic variables and care policy statuses of UK local authorities and regions.
+\role
+{Research Assistant}
+{Feb 2023 -- Present}
+{Care Policy and Evaluation Centre, London School of Economics and Political Science}
+{United Kingdom}
 
-**11/2020 -- Present**       **Researcher**\
-              Observatorio de Reformas Políticas en América Latina\
-              National Autonomous University of Mexico\
-              Mexico
+\begin{itemize}
 
--   Collected quantitative and qualitative information on political reforms in Peru through an evaluation of electoral legislation.
--   Proposed research designs and conducted studies on electoral reforms.
--   Served as an editorial assistant for the electronic publication of the Blog #ObservatorioReformas, in collaboration with [Voz y Voto](https://www.vozyvoto.com.mx/categoria/observatorioreformas).
+    \item Design and deliver quantitative research examining adult social
+    care, health services, inequalities and variation in service provision
+    using large-scale administrative, survey and longitudinal datasets.
 
-**08/2023 -- 12/2024**       **Research Assistant**\
-               The mis(uses) of artificial intelligence in public policy\
-               International School for Government - King’s College London\
-               United Kingdom
+    \item Design and implement statistical analyses in R, including
+    regression and longitudinal methods, selecting appropriate analytical
+    approaches and assessing assumptions, limitations and robustness.
 
--   Conducted an extensive literature review on the application of AI in public policy, analysing over 50 academic papers, reports, and articles.
--   Developed a comprehensive database of 40 cases documenting AI utilisation by public authorities, incorporating data from news sources, governmental reports, and other secondary materials.
+    \item Integrate, clean and validate complex datasets from multiple
+    organisations and years, reconciling differences in definitions,
+    geographical structures, missing information and data quality.
 
-**05/2022 -- 06/2022**      **Technical Secretary**\
-              2022 Participatory Budget Consultation of Mexico City\
-              Electoral Institute of Mexico City\
-              Mexico
+    \item Develop comparative analyses examining variation in service
+    provision, expenditure, population characteristics and outcomes across
+    local authorities and geographical areas.
 
--   Conducted visits to and evaluated the performance of three polling places.
--   Coordinated a team of twelve electoral specialists.
--   Produced a comprehensive report on the elections, including recommendations for improving procedures, and delivered a presentation on the findings.
+    \item Develop reproducible analytical workflows in R to automate data
+    processing, statistical analysis, visualisation and reporting,
+    improving analytical efficiency, consistency and transparency.
 
-**04/2019 -- 03/2020**      **Researcher**\
-**10/2020 -- 09/2022**      Electoral Documentation and Investigation Subdivision\
-              National Office of Electoral Processes\
-              Peru
+    \item Combine statistical analysis with literature reviews and other
+    evidence sources to answer complex policy and research questions.
 
--   Conducted extensive research that resulted in the publication of two books per year on electoral studies.
--   Utilised R to contrast quantitative and qualitative data in order to evaluate electoral policies.
--   Organised and participated in panels and events to present and discuss the findings of the books and other publications.
+    \item Produce analytical reports, data visualisations, methodological
+    outputs and publications translating complex quantitative findings into
+    accessible evidence for researchers, policymakers and other stakeholders.
 
-**01/2019 -- 03/2019**      **Member of the Technical Secretariat**\
-              High-Level Commission for Political Reform\
-              Presidential Office\
-              Peru
+    \item Collaborate with multidisciplinary researchers and external
+    stakeholders to formulate research questions, develop analytical
+    approaches and interpret results in their wider policy and service
+    context.
 
--   Conducted extensive research on political and electoral information, utilising various sources such as databases, reports, legislation, and books.
--   Analysed data and created statistical tables, indicators, and data visualisations using R and Excel.
--   Coordinated meetings with specialists, governmental institutions, NGOs, and other stakeholders to facilitate collaboration and information sharing.
--   Co-authored documents proposing electoral policies and reforms.
+    \item Work with sensitive health and social care data in accordance with
+    research ethics, confidentiality, data protection and information
+    governance requirements.
 
-**04/2018 -- 12/2018**      **Junior Political Analyst**\
-              Electoral Process Operations Center\
-              National Jury of Elections\
-              Peru
+\end{itemize}
 
--   Headed a team of 4 individuals responsible for updating, maintaining, and generating content for [INFOgob: Observatory for Governance](https://infogob.jne.gob.pe/).
--   Developed research proposals in electoral studies, utilising both quantitative and qualitative approaches.
--   Collaborated on the creation of reports on electoral politics, drawing from both quantitative and qualitative data.
+\textbf{Selected research and analytical work:}
+longitudinal analysis of health and social care trajectories;
+local-authority data integration and comparative analysis;
+variation in social care provision and outcomes;
+automated and reproducible analytics in R;
+and methodological work on causal inference.
 
-**10/2017 -- 12/2017**      **Research Assistant**\
-              Innovation for Development\
-              Ministry of Education of Peru\
-              Peru
+% ---------------------------------------------------------
 
--   Conducted surveys and interviews to gather information from students, principals, teachers, and parents at 12 rural educational institutions.
--   Utilised R and Excel to organise this information into tables and graphs.
--   Collaborated on the drafting of a final report on rural education policy in Peru and presented the findings to four key stakeholders.
+\vspace{4pt}
 
-## <span>Editorial Experience</span>
-<hr style="border-color:#000000; margin-top: 5px; margin-bottom: 5px">
+\role
+{Research Assistant}
+{Aug 2023 -- Dec 2024}
+{The Mis(uses) of Artificial Intelligence in Public Policy, International School for Government, King's College London}
+{United Kingdom}
 
-**10/2020 -- 09/2022**        **Editor-in-chief of [Elecciones](https://revistas.onpe.gob.pe/index.php/elecciones)**\
-              Electoral Documentation and Investigation Subdivision\
-              National Office of Electoral Processes\
-              Peru
+\begin{itemize}
 
--   Led a team of five members in the Publications Committee, ensuring an efficient editorial process.
--   Served as Editor-in-Chief for three consecutive editions (21, 22, and 23) of the journal Elecciones.
--   Developed and maintained the journal's website, managing its content and overseeing its day-to-day operations.
--   Successfully indexed Elecciones into 18 databases and platforms, contributing to its increased visibility and impact in the academic community.
+    \item Conducted an extensive literature review on the application and
+    governance of artificial intelligence in public policy, reviewing more
+    than 50 academic papers, policy reports and other sources.
 
-**01/2015 -- 12/2015**        **Editor-in-chief of [Politai](https://revistas.pucp.edu.pe/index.php/politai)**\
-              Faculty of Social Science\
-              Pontifical Catholic University of Peru\
-              Peru
+    \item Developed a structured database of 40 cases documenting the use of
+    artificial intelligence by public authorities using governmental
+    reports, news sources and other documentary evidence.
 
--   Led a team of five as head of the Editorial Committee, and delegated responsibilities throughout the editorial process.
--   Served as Editor-in-Chief for two editions of Politai: Revista de Ciencia Política, "Subnational Politics" and "Illegality and Informality in Latin America".
--   Indexed Politai: Revista de Ciencia Política on Latindex and Dialnet catalogues.
+    \item Synthesised evidence on applications, risks and governance issues
+    associated with the use of AI across public-sector settings.
 
-## <span>Awards, Grants & Recognitions</span>
-<hr style="border-color:#000000; margin-top: 5px; margin-bottom: 5px">
+\end{itemize}
 
-**2023**                **Oxford LLMS Workshop travel grant**\
-Selected for a travel grant and registration to attend the Large Language Models Workshop organized by the University of Oxford.
+% ---------------------------------------------------------
 
-**2022**                **Recipient of the Beca Generación Bicentenario Scholarship**
+\vspace{4pt}
 
-Awarded to 150 outstanding postgraduate students from across Peru, the scholarship fully covers all academic and ordinary expenses to support higher education.
+\role
+{Researcher}
+{Nov 2020 -- Present}
+{Observatorio de Reformas Políticas en América Latina, National Autonomous University of Mexico}
+{Mexico}
 
-**2021**                **Awarded LASA2022 Travel Grant**
+\begin{itemize}
 
-Selected for a \$500 travel grant and registration to attend the XL International Congress of the Latin American Studies Association, based on proposal quality.
+    \item Collect and analyse quantitative and qualitative evidence on
+    political and electoral reforms in Peru, including systematic analysis
+    of electoral legislation.
 
-**2018**                **Second Place in Best Thesis Competition 2018**
+    \item Develop research designs and contribute to comparative research on
+    electoral institutions and political reform in Latin America.
 
-Recognised for outstanding achievement among thesis submitted to the Faculty of Social Sciences.
+    \item Contributed to the electronic publication of the
+    \textit{Blog \#ObservatorioReformas} in collaboration with
+    \textit{Voz y Voto}.
 
-**2016**                **Recipient of Scholarship for Academic Exchange at University Hradec Kralove**
+\end{itemize}
 
-Awarded by the Czech Ministry of Education to only two students from Pontifical Catholic University of Peru, the scholarship covers all expenses for education and basic needs during the residency at the Faculty of Philosophy in the Czech Republic.
+% ---------------------------------------------------------
 
-**2015-2018**           **Awardee of the Solidarity Academic Encouragement Scholarships (BEAS)**
+\vspace{4pt}
 
-Granted to only 16 students, this full coverage scholarship supports undergraduate studies including enrolment, pension, and academic procedures.
+\role
+{Technical Secretary}
+{May 2022 -- Jun 2022}
+{Electoral Institute of Mexico City}
+{Mexico}
 
-**2010-2012**           **Recipient of the Colegio Mayor Secundario Presidente del Perú Scholarship**
+\begin{itemize}
 
-Selected as one of the top 300 Peruvian students during the last three years of secondary education to attend the Colegio Mayor Secundario Presidente del Perú, this scholarship covers all educational costs including full payment of the International Baccalaureate Diploma Programme.
+    \item Analysed operational and administrative information and produced
+    analytical reports supporting electoral planning and organisational
+    decision-making.
+
+    \item Coordinated a team of twelve electoral specialists and information
+    collection across operational stakeholders.
+
+    \item Conducted field visits and evaluated the performance of polling
+    locations during the Participatory Budget Consultation.
+
+    \item Produced a comprehensive technical report containing findings and
+    recommendations for improving electoral procedures and presented results
+    to relevant stakeholders.
+
+\end{itemize}
+
+% ---------------------------------------------------------
+
+\vspace{4pt}
+
+\role
+{Researcher}
+{Apr 2019 -- Sep 2022}
+{Electoral Documentation and Investigation Subdivision, National Office of Electoral Processes}
+{Peru}
+
+\begin{itemize}
+
+    \item Designed and delivered quantitative and qualitative research
+    projects examining electoral behaviour, public opinion, institutional
+    performance and electoral policy.
+
+    \item Conducted research using administrative, survey and documentary
+    evidence and applied statistical methods to identify patterns and
+    differences across populations, geographical areas and time.
+
+    \item Integrated, cleaned and validated datasets from multiple sources,
+    ensuring analytical consistency and accuracy.
+
+    \item Managed research projects from analytical design through analysis,
+    reporting, publication and dissemination, coordinating activities with
+    government institutions, academics and external researchers.
+
+    \item Produced research reports, statistical analyses, data visualisations
+    and policy-relevant evidence for senior decision-makers and external
+    audiences.
+
+    \item Organised and participated in panels, seminars and other events to
+    communicate research findings and promote discussion of electoral
+    research.
+
+\end{itemize}
+
+% ---------------------------------------------------------
+
+\vspace{4pt}
+
+\role
+{Member of the Technical Secretariat}
+{Jan 2019 -- Mar 2019}
+{High-Level Commission for Political Reform, Presidential Office of Peru}
+{Peru}
+
+\begin{itemize}
+
+    \item Conducted research on political and electoral institutions using
+    administrative datasets, legislation, policy reports and academic
+    literature.
+
+    \item Analysed quantitative evidence and produced statistical tables,
+    indicators and visualisations using R and Excel.
+
+    \item Coordinated meetings and evidence gathering with specialists,
+    government institutions, civil-society organisations and other
+    stakeholders.
+
+    \item Co-authored technical documents containing proposals for electoral
+    and political reform.
+
+\end{itemize}
+
+% ---------------------------------------------------------
+
+\vspace{4pt}
+
+\role
+{Junior Political Analyst}
+{Apr 2018 -- Dec 2018}
+{Electoral Process Operations Center, National Jury of Elections}
+{Peru}
+
+\begin{itemize}
+
+    \item Led a four-person team responsible for updating, maintaining and
+    producing analytical content for INFOgob, the Observatory for Governance.
+
+    \item Developed research proposals in electoral studies using
+    quantitative and qualitative approaches.
+
+    \item Contributed to analytical reports on electoral politics using
+    administrative and other quantitative and qualitative evidence.
+
+\end{itemize}
+
+% ---------------------------------------------------------
+
+\vspace{4pt}
+
+\role
+{Research Assistant}
+{Oct 2017 -- Dec 2017}
+{Innovation for Development, Ministry of Education of Peru}
+{Peru}
+
+\begin{itemize}
+
+    \item Conducted surveys and interviews with students, school principals,
+    teachers and parents across 12 rural educational institutions.
+
+    \item Organised and analysed quantitative information using R and Excel,
+    producing tables and data visualisations.
+
+    \item Contributed to the final report on rural education policy and
+    presented findings to key stakeholders.
+
+\end{itemize}
+
+% =========================================================
+\section*{Editorial \& Academic Leadership}
+
+\role
+{Editor-in-Chief, \textit{Elecciones}}
+{Oct 2020 -- Sep 2022}
+{National Office of Electoral Processes}
+{Peru}
+
+\begin{itemize}
+
+    \item Led a five-member Publications Committee and coordinated the
+    journal's editorial workflow.
+
+    \item Served as Editor-in-Chief for three consecutive editions of
+    \textit{Elecciones}.
+
+    \item Managed the journal website and its day-to-day digital content.
+
+    \item Contributed to the inclusion of \textit{Elecciones} in 18 academic
+    databases and indexing platforms, increasing the journal's visibility.
+
+\end{itemize}
+
+\vspace{4pt}
+
+\role
+{Editor-in-Chief, \textit{Politai: Revista de Ciencia Política}}
+{Jan 2015 -- Dec 2015}
+{Faculty of Social Sciences, Pontifical Catholic University of Peru}
+{Peru}
+
+\begin{itemize}
+
+    \item Led a five-person Editorial Committee and coordinated responsibilities
+    throughout the editorial process.
+
+    \item Served as Editor-in-Chief for two editions covering subnational
+    politics and illegality and informality in Latin America.
+
+    \item Contributed to indexing the journal in Latindex and Dialnet.
+
+\end{itemize}
+
+% =========================================================
+\section*{Education}
+
+\textbf{MSc Social Research Methods} \hfill Sep 2022 -- Sep 2023\\
+\textit{London School of Economics and Political Science, Department of Methodology}\\
+United Kingdom
+
+Dissertation (Distinction):
+\textit{Unravelling Party Discipline in the Global South:
+A Case Study of Peru Using Beta Regression Analysis}.
+
+Advanced training in quantitative and qualitative research methods,
+statistical modelling, causal inference, research design and applied
+data analysis.
+
+\vspace{5pt}
+
+\textbf{Bachelor of Social Science in Political Science and Government}
+\hfill Mar 2012 -- Dec 2017\\
+\textit{Pontifical Catholic University of Peru, Faculty of Social Sciences}\\
+Peru
+
+Dissertation (Distinction):
+\textit{Catching the Big Fish: Subnational Corruption in the Cases of
+Callao and Tumbes}.
+
+\vspace{5pt}
+
+\textbf{Academic Exchange} \hfill Jan 2017 -- Jul 2017\\
+\textit{University of Hradec Kr\'alov\'e, Faculty of Philosophy and Social Sciences}\\
+Czech Republic
+
+% =========================================================
+\section*{Selected Publications}
+
+Fernández, J. L., Jaramillo, C. \& Cartagena-Farias, J. (2025).
+\textit{Using administrative data to map social care trajectories
+post-hospital discharge}. NIHR Policy Research Unit.
+
+\vspace{2pt}
+
+Fernández, J. L., Jaramillo, C. \& Cartagena-Farias, J. (2025).
+\textit{Factors associated with variations in the type and intensity of local
+authority social care for older people: The role of the voluntary sector}.
+
+\vspace{2pt}
+
+Jaramillo, C. (2023).
+``The Impossibility of Party Unity in Peru: Party Affiliation, Subnational
+Electoral Competition and Party Discipline (2011--2019).''
+\textit{Bulletin of Latin American Research}.
+
+\vspace{2pt}
+
+Additional publications and research outputs are available at
+\href{https://www.cristhianjaramillo.com}{cristhianjaramillo.com}.
+
+% =========================================================
+\section*{Awards, Grants \& Recognition}
+
+\textbf{Oxford LLM Workshop Travel Grant} \hfill 2023\\
+Selected for travel funding and registration to attend the Large Language
+Models Workshop organised by the University of Oxford.
+
+\textbf{Beca Generaci\'on Bicentenario Scholarship} \hfill 2022\\
+Competitive postgraduate scholarship awarded to 150 outstanding students
+from across Peru, covering academic and ordinary expenses for postgraduate
+study.
+
+\textbf{LASA2022 Travel Grant} \hfill 2021\\
+Awarded a \$500 travel grant and conference registration to attend the
+International Congress of the Latin American Studies Association, based on
+proposal quality.
+
+\textbf{Second Place, Best Thesis Competition} \hfill 2018\\
+Recognised for outstanding achievement among theses submitted to the Faculty
+of Social Sciences at the Pontifical Catholic University of Peru.
+
+\textbf{Scholarship for Academic Exchange, University of Hradec Kr\'alov\'e}
+\hfill 2016\\
+Awarded by the Czech Ministry of Education to two students from the
+Pontifical Catholic University of Peru, covering educational and basic living
+expenses during the academic exchange.
+
+\textbf{Solidarity Academic Encouragement Scholarship (BEAS)}
+\hfill 2015 -- 2018\\
+Full scholarship awarded to 16 students, covering undergraduate enrolment,
+tuition and academic expenses.
+
+% =========================================================
+\section*{Professional Development}
+
+\textbf{ECPR Summer School in Research Methods and Techniques}
+\hfill 2023\\
+Bayesian Modelling and Data Visualisation in R.
+
+\textbf{University of Oxford -- Nuffield College}
+\hfill 2023\\
+Large Language Models Workshop.
+
+\textbf{Certificate in Elections, Political Representation and Electoral Governance}
+\hfill 2021\\
+National Autonomous University of Mexico.
+
+\textbf{HarvardX Data Science Series}
+\hfill 2018 -- 2020\\
+R programming, data wrangling, statistical modelling, machine learning
+and data visualisation.
+
+\textbf{Introductory Course in R and QCA}
+\hfill 2015\\
+Latin American Association of Political Science.
+
+% =========================================================
+\section*{Languages}
+
+Spanish (Native) \;|\;
+English (Fluent, IELTS 8.0) \;|\;
+French (Intermediate)
+
+\end{document}
